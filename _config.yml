@@ -1,0 +1,37 @@
+#
+# Jekyll: Handling Reading
+#
+exclude:
+  - README.md
+
+#
+# Jekyll: Serving
+#
+url: http://davison.io
+# https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
+baseurl: ""
+
+#
+# Jekyll: Output Configuration
+#
+permalink: /:title/
+timezone: Europe/London
+
+#
+# Site: Other
+#
+
+# Setup
+title:               Lanyon
+tagline:             'A Jekyll theme'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://lanyon.getpoole.com
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             1.0.0
