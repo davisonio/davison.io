@@ -6,7 +6,9 @@ It's based on Lanyon, an unassuming [Jekyll](http://jekyllrb.com) theme that pla
 
 ## Todo
 - [ ] Add favicon + other icons
-- [ ] Replace comingsoon.gif on home page
+- [ ] Replace comingsoon.gif on home page and projects page
+- [ ] Complete @ page
+- [ ] Redirect_from index.html to /
 
 ## License & Credits
 
