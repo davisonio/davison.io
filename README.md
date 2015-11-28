@@ -4,6 +4,10 @@ My website at [davison.io](http://davison.io).
 
 It's based on Lanyon, an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer.
 
+## Todo
+- [ ] Add favicon + other icons
+- [ ] Replace comingsoon.gif on home page
+
 ## License & Credits
 
 Based upon the Lanyon theme for Jekyll which is licensed under the [MIT license](https://github.com/poole/lanyon/blob/master/LICENSE.md):
