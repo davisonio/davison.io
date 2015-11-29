@@ -20,10 +20,11 @@ Based on Lanyon, an unassuming Jekyll theme that places content first by tucking
 ![](https://raw.githubusercontent.com/wiki/davisonio/davison.io/img/1.png)
 
 ## Todo
-- [ ] Add favicon + other icons
-- [ ] Replace comingsoon.gif on home page and projects page
-- [ ] Complete @ page
-- [ ] Redirect_from index.html to /
+- [ ] add favicon + other icons
+- [ ] replace comingsoon.gif on home page and projects page
+- [ ] complete @ page
+- [ ] redirect_from index.html to /
+- [ ] add contributing.md
 
 ## Authors
 
