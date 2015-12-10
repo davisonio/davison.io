@@ -1,6 +1,11 @@
-# https://docs.travis-ci.com/user/workers/container-based-infrastructure/
 language: ruby
 rvm:
-  - 2.1
+  - 2.2
+before_script:
+  - gem install jekyll
+  - gem install awesome_bot
 script:
+  # Build jekyll to check for errors
   - bundle exec jekyll build
+  # Check GitHub files for link problems
+  - awesome_bot README.md --allow-dupe
