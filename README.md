@@ -3,8 +3,6 @@
 > Craig Davison's website @ [davison.io](http://davison.io)
 
 <p align="center">
-<b><a href="#todo">Todo</a></b>
-·
 <b><a href="#authors">Authors</a></b>
 ·
 <b><a href="#credits">Credits</a></b>
@@ -19,18 +17,11 @@ Based on Lanyon, an unassuming Jekyll theme that places content first by tucking
 
 ![](https://raw.githubusercontent.com/wiki/davisonio/davison.io/img/1.png)
 
-## Todo
-- [ ] add favicon + other icons
-- [ ] replace comingsoon.gif on home page and projects page
-- [ ] complete @ page
-- [ ] redirect_from index.html to /
-- [ ] add contributing.md
-
 ## Authors
 
 **[Craig Davison](http://davison.io)**
 
-[![GitHub followers](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow)](https://github.com/davisonio)
+[![GitHub followers](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![Twitter followers](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davison.io)
 
 With many thanks to the [contributors](https://github.com/davisonio/davison.io/graphs/contributors) :clap:
 
