@@ -21,7 +21,7 @@ Based on Lanyon, an unassuming Jekyll theme that places content first by tucking
 
 **[Craig Davison](http://davison.io)**
 
-[![GitHub followers](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![Twitter followers](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davison.io)
+[![GitHub followers](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![Twitter followers](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
 
 With many thanks to the [contributors](https://github.com/davisonio/davison.io/graphs/contributors) :clap:
 
