@@ -6,7 +6,7 @@ install:
   - gem install awesome_bot
 script:
   # Build jekyll
-  - bundle exec jekyll build
+  - jekyll build
   # Check for link problems
   - awesome_bot README.md --allow-dupe
 notifications:
