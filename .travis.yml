@@ -1,11 +1,10 @@
-language: ruby
-rvm:
-  - 2.2
-before_script:
+install:
   - gem install jekyll
   - gem install awesome_bot
 script:
-  # Build jekyll to check for errors
+  # Build jekyll
   - bundle exec jekyll build
-  # Check GitHub files for link problems
+  # Check for link problems
   - awesome_bot README.md --allow-dupe
+notifications:
+  email: false
