@@ -1,4 +1,4 @@
-pre_install:
+before_install:
   - rvm get stable
   - rvm install ruby 2.2.3
 install:
