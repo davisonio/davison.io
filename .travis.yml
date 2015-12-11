@@ -1,5 +1,6 @@
 pre_install:
   - rvm get stable
+  - rvm install ruby 2.2.3
 install:
   - gem install jekyll --pre
   - gem install awesome_bot
