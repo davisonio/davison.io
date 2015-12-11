@@ -1,5 +1,7 @@
+rvm:
+  - 2.2.3
 install:
-  - gem install jekyll
+  - gem install jekyll --pre
   - gem install awesome_bot
 script:
   # Build jekyll
