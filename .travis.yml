@@ -1,16 +1,18 @@
+language: ruby
+
+rvm:
+  # Jekyll requires > 2.0
+  - 2.2
+
 before_install:
+  # Use latest rvm
   - rvm get stable
-  - rvm install ruby 2.2.3
 
 install:
   - gem install jekyll
-  - gem install awesome_bot
 
 script:
-  # Build jekyll
   - jekyll build
-  # Check for link problems
-  - awesome_bot README.md --allow-dupe
 
 notifications:
   email: false
