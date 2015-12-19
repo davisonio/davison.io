@@ -133,3 +133,7 @@ p#my-description {
 .fa-medium:hover {
   color: #0BE370;
 }
+
+.fa-ellipsis-h:hover {
+  color: #FFAB42;
+}

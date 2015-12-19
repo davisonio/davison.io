@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Find me on the web
+title: Find me elsewhere on the web
 permalink: /elsewhere/
 ---
 
-> A list of places where you can find me on the web
+> Where you can find me elsewhere on the web
 
 <!--
 ## I'm sharing...
