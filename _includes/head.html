@@ -1,9 +1,8 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="{{site.description}}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
+  <meta name="description" content="{{site.description}}">
   <title>
     {% if page.title == "Home" %}
       {{ site.title }}
@@ -11,10 +10,11 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-
-  <!-- CSS -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.0.2/css/hover-min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/burger.min.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/lanyon.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
 </head>

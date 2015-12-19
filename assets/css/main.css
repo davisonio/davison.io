@@ -1,0 +1,131 @@
+/*        */
+/* Global */
+/*        */
+
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  color: #FFAB42;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #E89D3E;
+  text-decoration: underline;
+}
+
+.center {
+  text-align: center;
+}
+
+.floating-title a {
+    position: fixed;
+    z-index: 500;
+    top: 0.5rem;
+    left: 0.5rem;
+    display: block;
+    padding: 9px 12px 9px 12px;
+    color: #fff;
+    background: #29292a;
+    transition: background 0.75s ease-out;
+}
+
+.floating-title a:hover {
+    background: #225d85;
+}
+
+.floating-title a span {
+    display: inline-block;
+}
+
+.b-menu {
+  position: fixed;
+  top: 0.5rem;
+  right: 0.5rem;
+  z-index: 500;
+  background: #29292a;
+  transition: background 0.75s ease-out;
+  border: 2px solid transparent;
+  height: 48px;
+  width: 48px;
+  padding-left: 9px;
+  padding-top: 12px;
+  border-radius: inherit;
+}
+
+.b-menu:hover {
+  background: #225d85;
+}
+
+body:after {
+    background: white;
+}
+
+.b-link {
+  font-family: none;
+  font-size: 1.5rem;
+  color: #515151;
+}
+
+.b-link--active,
+.b-link:hover {
+    border-left: #515151 solid 2px;
+    padding-left: 30px;
+}
+
+.b-nav {
+  z-index: 400;
+}
+
+.b-nav li:first-child {
+  padding-top: 1rem;
+}
+
+/*            */
+/* Page: Home */
+/*            */
+
+span#my-profile-picture {
+  width: 10rem;
+  height: 10rem;
+  display: block;
+  margin: auto;
+  margin-top: 105px;
+  background: url("/assets/img/my-profile-picture.png") no-repeat;
+  background-size: 10rem 10rem;
+  /*border-radius: 100px;*/
+}
+
+h1#my-name {
+  margin-top: 2rem;
+  font-size: 3rem;
+}
+
+p#my-description {
+  padding-bottom: 1.5rem;
+  padding-top: 1.5rem;
+}
+
+.social-heaven .fa {
+  /* Just the right amount of spacing for multiple icons! */
+  margin-left: 0.7rem;
+  margin-right: 0.7rem;
+
+  color: #555;
+}
+
+/* Colours are from the main colour of the site's logo */
+.fa-twitter:hover {
+  color: #55acee;
+}
+
+.fa-github:hover {
+  color: #333333;
+}
+
+.fa-medium:hover {
+  color: #0BE370;
+}

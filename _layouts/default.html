@@ -3,28 +3,32 @@
 
   {% include head.html %}
 
-  <body class="theme-base-08">
+  <body>
+    <header class="floating-title">
+      <a href="https://davison.io">
+        <span>@davisonio</span>
+      </a>
+    </header>
 
-    {% include sidebar.html %}
+    <div class="b-nav">
+      <li><a class="b-link {% if page.title == 'Home' %}b-link--active{% endif %}" href="{{ site.baseurl }}/">Home</a></li>
+      <li><a class="b-link" href="https://medium.com/craig-davison">Blog</a></li>
+      <li><a class="b-link {% if page.title == 'Projects' %}b-link--active{% endif %}" href="{{ site.baseurl }}/projects/">Projects</a></li>
+      <li><a class="b-link {% if page.title == 'Hello' %}b-link--active{% endif %}" href="{{ site.baseurl }}/hello/">Hello</a></li>
+    </div>
 
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
-            <a>{{ site.title }}</a>
-          </h3>
-        </div>
-      </div>
-
-      <div class="container content">
-        {{ content }}
+    <div class="b-container">
+      <div class="b-menu">
+        <div class="b-bun b-bun--top"></div>
+        <div class="b-bun b-bun--mid"></div>
+        <div class="b-bun b-bun--bottom"></div>
       </div>
     </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-    <script src="{{ site.baseurl }}/assets/js/sidebar-toggle.js"></script>
+    <div class="content">
+      {{ content }}
+    </div>
   </body>
+
+  {% include footer.html %}
 </html>
