@@ -13,7 +13,7 @@
 </p>
 
 This is the source code for my website located on the interwebs at [davison.io](http://davison.io).
-Based on Lanyon, an unassuming Jekyll theme that places content first by tucking away navigation in a hidden drawer.
+The website was mainly built from scratch with a little help from [Poole](http://getpoole.com)
 
 ![](https://raw.githubusercontent.com/wiki/davisonio/davison.io/img/1.png)
 
@@ -33,6 +33,6 @@ Unless otherwise stated:
 
 - Copyright © 2015+ [Craig Davison](http://davison.io). Released under the [MIT License](http://davisonio.mit-license.org).
 
-Based on [Lanyon theme](http://lanyon.getpoole.com) for [Jekyll](http://jekyllrb.com/):
+Based on [Poole](http://getpoole.com) for [Jekyll](http://jekyllrb.com):
 
-- Copyright © 2014 [Mark Otto](http://markdotto.com/) Release under the [MIT License](https://github.com/poole/lanyon/blob/master/LICENSE.md).
+- Copyright © 2014 [Mark Otto](http://markdotto.com) Release under the [MIT License](https://github.com/poole/poole/blob/master/LICENSE.md).
