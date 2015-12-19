@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Find me on the web
 permalink: /find-me/
 ---
