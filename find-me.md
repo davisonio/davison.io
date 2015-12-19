@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Where you can find me on the web
-permalink: /@/
+layout: default
+title: Find me on the web
+permalink: /find-me/
 ---
 
-> Reasonably complete list of places where you can find me on the web
+> A list of places where you can find me on the web
 
 <!--
 ## I'm sharing...
