@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Find me on the web
-permalink: /find-me/
+permalink: /elsewhere/
 ---
 
 > A list of places where you can find me on the web
