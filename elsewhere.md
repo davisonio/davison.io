@@ -26,7 +26,7 @@ permalink: /elsewhere/
 
 *Usually writing blog posts or writing code*
 
-- on [Craig Davison's Blog](https://medium.com/craig-davison)
+- on [Craig Davison's Blog](https://blog.davison.io)
 - code on [GitHub](https://github.com/davisonio)
 - code on [Bitbucket](https://bitbucket.org/davisonio/)
 - code on [CodePen](http://codepen.io/davisonio/)
