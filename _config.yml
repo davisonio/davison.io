@@ -8,7 +8,7 @@ exclude:
 #
 # Jekyll: Serving
 #
-url: http://davison.io
+url: https://davison.io
 # https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 baseurl: ""
 
