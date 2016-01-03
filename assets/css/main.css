@@ -1,6 +1,6 @@
-/*        */
-/* Global */
-/*        */
+/*      */
+/* Main */
+/*      */
 
 html {
   font-family: "Montserrat", sans-serif;
@@ -21,43 +21,64 @@ a:focus {
   text-align: center;
 }
 
-.floating-title a {
-    position: fixed;
-    z-index: 500;
-    top: 0.5rem;
-    left: 0.5rem;
-    display: block;
-    padding: 9px 12px 9px 12px;
-    color: #fff;
-    background: #29292a;
-    transition: background 0.75s ease-out;
+.page-title {
+  margin-top: 4rem;
 }
 
-.floating-title a:hover {
+/*                  */
+/* Main: Navigation */
+/*                  */
+
+.top-title-button a {
+  position: fixed;
+  z-index: 500;
+  top: 10px;
+  left: 10px;
+  padding-top: 9px;
+  padding-right: 12px;
+  padding-bottom: 9px;
+  padding-left: 12px;
+  background: #29292a;
+  transition: background 0.75s ease-out;
+
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.top-title-button a:hover {
     background: #225d85;
-}
-
-.floating-title a span {
-    display: inline-block;
 }
 
 .b-menu {
   position: fixed;
-  top: 0.5rem;
-  right: 0.5rem;
   z-index: 500;
+  top: 10px;
+  right: 10px;
+  padding-top: 12px;
+  padding-left: 9px;
   background: #29292a;
   transition: background 0.75s ease-out;
-  border: 2px solid transparent;
+
   height: 48px;
   width: 48px;
-  padding-left: 9px;
-  padding-top: 12px;
-  border-radius: inherit;
+  border: 2px solid transparent;
+  border-radius: 0;
 }
 
 .b-menu:hover {
   background: #225d85;
+  border: 2px solid transparent;
+}
+
+.b-nav {
+  z-index: 400;
+}
+
+.b-nav li:first-child {
+  padding-top: 20px;
 }
 
 body:after {
@@ -73,19 +94,6 @@ body:after {
 .b-link--active,
 .b-link:hover {
     border-left: #515151 solid 2px;
-    padding-left: 30px;
-}
-
-.b-nav {
-  z-index: 400;
-}
-
-.b-nav li:first-child {
-  padding-top: 1rem;
-}
-
-.page-title {
-  margin-top: 4rem;
 }
 
 /*            */
@@ -100,7 +108,8 @@ span#my-profile-picture {
   margin-top: 105px;
   background: url("/assets/img/my-profile-picture.png") no-repeat;
   background-size: 10rem 10rem;
-  /*border-radius: 100px;*/
+  /* For a round profile picture: */
+  /* border-radius: 100px; */
 }
 
 h1#my-name {
