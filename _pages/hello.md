@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hello
+permalink: /hello/
 ---
 
 Hello, I'm Craig
