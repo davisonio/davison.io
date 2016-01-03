@@ -1,25 +1,21 @@
-#
-# Jekyll: Handling Reading
-#
-exclude:
-  - README.md
-  - vendor
-
-#
-# Jekyll: Serving
-#
+# The URL which the site will be served from.
 url: https://davison.io
-# https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
+
+# This is only needed if you are serving this site in a subdirectory.
 baseurl: ""
 
-#
-# Jekyll: Output Configuration
-#
+# These files will be excluded from the generated site.
+# Files or directories starting with a _ or . are automatically excluded.
+exclude:
+  - README.md
+
+# It's good practice to set a permalink manually for each post but if not, here:
 permalink: /:title/
+
 timezone: Europe/London
 
 #
-# Site: Other
+# Site-defined variables
 #
 
 title: Craig Davison
