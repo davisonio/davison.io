@@ -25,6 +25,15 @@ a:focus {
   margin-top: 4rem;
 }
 
+ul, ol, dl {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.b-nav, body:after {
+  position: fixed;
+}
+
 /*                  */
 /* Main: Navigation */
 /*                  */
