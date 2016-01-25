@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elsewhere on the web
+title: Elsewhere
 permalink: /elsewhere/
 ---
 
