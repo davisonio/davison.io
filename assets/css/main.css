@@ -6,6 +6,7 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 
+/* Nice, orange links */
 a {
   color: #FFAB42;
   text-decoration: none;
@@ -28,10 +29,6 @@ a:focus {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 0;
-}
-
-.b-nav, body:after {
-  position: fixed;
 }
 
 /*                  */
@@ -84,6 +81,10 @@ ul, ol, dl {
 
 .b-nav {
   z-index: 400;
+}
+
+.b-nav, body:after {
+  position: fixed;
 }
 
 .b-nav li:first-child {
