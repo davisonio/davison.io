@@ -6,72 +6,70 @@ permalink: /elsewhere/
 
 > List of where you can find me elsewhere on the web
 
-## I'm sharing...
+## Sharing
 
 *Mostly social networks*
 
-- on [Twitter](https://twitter.com/davisonio)
-- on [Ello](https://ello.co/davisonio)
-- humour on [Imgur](https://imgur.com/user/davisonio)
-- humour on [iFunny](http://ifunny.co/davisonio)
+- [Twitter](https://twitter.com/davisonio)
+- [Ello](https://ello.co/davisonio)
+- [iFunny](http://ifunny.co/davisonio)
+- [Imgur](https://imgur.com/user/davisonio)
 
-## I'm reading...
+## Reading
 
 *Places I like to read things or catch up on topics*
 
-- stories on [Medium](https://medium.com/@davisonio)
-- articles on [Pocket](https://getpocket.com/@davisonio)
+- [Medium](https://medium.com/@davisonio)
 
-## I'm writing...
+## Writing
 
 *Usually writing blog posts or writing code*
 
-- on [Craig Davison's Blog](https://blog.davison.io)
-- code on [GitHub](https://github.com/davisonio)
-- code on [Bitbucket](https://bitbucket.org/davisonio/)
-- code on [CodePen](http://codepen.io/davisonio/)
+- [Craig Davison's Blog](https://blog.davison.io)
+- [GitHub](https://github.com/davisonio)
+- [Bitbucket](https://bitbucket.org/davisonio/)
+- [CodePen](http://codepen.io/davisonio/)
 
-## I'm watching...
+## Watching
 
-- videos on [Vimeo](https://vimeo.com/davisonio)
-- videos on [Meerkat](https://meerkatapp.co/davisonio)
+- [Vimeo](https://vimeo.com/davisonio)
+- [Meerkat](https://meerkatapp.co/davisonio)
 
-## I'm listening...
+## Listening
 
-- to music on [SoundCloud](https://soundcloud.com/davisonio)
+- [SoundCloud](https://soundcloud.com/davisonio)
 
-## I'm messaging...
+## Messaging
 
-- using email [@davison.io](mailto:craig@davison.io) *(craig@davison.io - primary)*
-- using email [@gmail.com](mailto:craig.davison3@gmail.com) *(craig.davison3@gmail.com - secondary)*
+- [craig@davison.io](mailto:craig@davison.io) *(primary email)*
 
-## I'm discussing...
+## Discussing
 
 *Forum-like sites or discussion communities*
 
-- on [Quora](https://www.quora.com/profile/Craig-Davison-3)
-- on [Stack Exchange](https://stackexchange.com/users/6582211/craig-davison)
+- [Quora](https://www.quora.com/profile/Craig-Davison-3)
+- [Stack Exchange](https://stackexchange.com/users/6582211/craig-davison)
 
 <!--
-## I'm navigating...
+## Navigating
 
-## I'm buying...
+## Buying
 
-## I'm accessing...
+## Accessing
 
-## I'm learning...
+## Learning
 
-## I'm testing...
+## Testing
 
-## I'm referring...
+## Referring
 
-## I'm utilising...
+## Utilising
 
-## I'm managing...
+## Managing
 
-## I'm editing...
+## Editing
 
-## I'm playing...
+## Playing
 
-## I'm getting...
+## Getting
 -->
