@@ -13,13 +13,16 @@ permalink: /elsewhere/
 - [Twitter](https://twitter.com/davisonio)
 - [Ello](https://ello.co/davisonio)
 - [iFunny](http://ifunny.co/davisonio)
+- [Vine](https://vine.co/davisonio)
 - [Imgur](https://imgur.com/user/davisonio)
+
 
 ## Reading
 
 *Places I like to read things or catch up on topics*
 
 - [Medium](https://medium.com/@davisonio)
+
 
 ## Writing
 
@@ -30,18 +33,22 @@ permalink: /elsewhere/
 - [Bitbucket](https://bitbucket.org/davisonio/)
 - [CodePen](http://codepen.io/davisonio/)
 
+
 ## Watching
 
 - [Vimeo](https://vimeo.com/davisonio)
 - [Meerkat](https://meerkatapp.co/davisonio)
 
+
 ## Listening
 
 - [SoundCloud](https://soundcloud.com/davisonio)
 
+
 ## Messaging
 
-- [craig@davison.io](mailto:craig@davison.io) *(primary email)*
+- [Email](mailto:craig@davison.io)
+
 
 ## Discussing
 
@@ -50,26 +57,37 @@ permalink: /elsewhere/
 - [Quora](https://www.quora.com/profile/Craig-Davison-3)
 - [Stack Exchange](https://stackexchange.com/users/6582211/craig-davison)
 
+
 <!--
 ## Navigating
 
+
 ## Buying
+
 
 ## Accessing
 
+
 ## Learning
+
 
 ## Testing
 
+
 ## Referring
+
 
 ## Utilising
 
+
 ## Managing
+
 
 ## Editing
 
+
 ## Playing
+
 
 ## Getting
 -->
