@@ -12,6 +12,8 @@
 <b><a href="#translations">Translations</a></b>
 ·
 <b><a href="#something-else">Something else</a></b>
+·
+<b><a href="#additional-notes">Additional notes</a></b>
 </p>
 
 ## Code
