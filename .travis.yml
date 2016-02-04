@@ -1,12 +1,7 @@
 language: ruby
 
 rvm:
-  # Jekyll requires > 2.0
   - 2.2
-
-before_install:
-  # Use latest rvm
-  - rvm get stable
 
 install:
   - gem install jekyll
