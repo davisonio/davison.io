@@ -1,4 +1,4 @@
-# [davison.io](https://davison.io/davison.io/) :globe_with_meridians: [![](https://img.shields.io/travis/davisonio/dotfiles.svg?style=flat-square)](https://travis-ci.org/davisonio/davison.io)
+# [davison.io](https://davison.io/davison.io/) :globe_with_meridians: [![](https://img.shields.io/travis/davisonio/davison.io.svg?style=flat-square)](https://travis-ci.org/davisonio/davison.io)
 
 > Craig Davison's website @ [davison.io](http://davison.io)
 
