@@ -14,7 +14,7 @@
 
 Here's the source code of my website which you can find on the interwebs over at [davison.io](https://davison.io).
 
-The website was mainly built from scratch with a little help from [Poole](http://getpoole.com)
+The website was mainly built from scratch with a little help from [Poole](http://getpoole.com).
 
 ![](https://davison.io/davison.io/1.png)
 
