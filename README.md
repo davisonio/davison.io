@@ -16,7 +16,7 @@ Here's the source code of my website which you can find on the interwebs over at
 
 The website was mainly built from scratch with a little help from [Poole](http://getpoole.com).
 
-![](https://davison.io/davison.io/1.png)
+![](https://davison.io/assets/img/davison.io/index.png)
 
 ## Install
 
