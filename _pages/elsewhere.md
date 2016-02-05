@@ -17,6 +17,7 @@ permalink: /elsewhere/
 - [Imgur](https://imgur.com/user/davisonio)
 - [Peach](http://peach.cool/add/davisonio)
 
+
 ## Reading
 
 *Places I like to read things or catch up on topics*
@@ -28,10 +29,10 @@ permalink: /elsewhere/
 
 *Usually writing blog posts or writing code*
 
-- [Craig Davison's Blog](https://blog.davison.io)
 - [GitHub](https://github.com/davisonio)
 - [Bitbucket](https://bitbucket.org/davisonio/)
 - [CodePen](http://codepen.io/davisonio/)
+- [Craig Davison's Blog](https://blog.davison.io)
 
 
 ## Watching
