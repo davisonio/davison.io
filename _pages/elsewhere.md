@@ -6,6 +6,8 @@ permalink: /elsewhere/
 
 > List of where you can find me elsewhere on the web
 
+Too much? <a href='{{ baseurl }}/hello/'>Here's an overview</a>
+
 ## Sharing
 
 *Mostly social networks*
