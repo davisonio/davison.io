@@ -8,7 +8,7 @@ permalink: /elsewhere/
 
 Too much? <a href='{{ baseurl }}/hello/'>Here's an overview</a>
 
-<!-- 
+<!--
 
 -->
 
@@ -22,6 +22,7 @@ Too much? <a href='{{ baseurl }}/hello/'>Here's an overview</a>
 - [Meerkat](https://meerkatapp.co/davisonio)
 - [Peach](http://peach.cool/add/davisonio)
 - [Quora](https://www.quora.com/profile/Craig-Davison-3)
+- [reddit](https://www.reddit.com/user/davisonio/)
 - [SoundCloud](https://soundcloud.com/davisonio)
 - [Stack Exchange](https://stackexchange.com/users/6582211/craig-davison)
 - [Twitter](https://twitter.com/davisonio)
