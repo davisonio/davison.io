@@ -4,93 +4,26 @@ title: Elsewhere
 permalink: /elsewhere/
 ---
 
-> List of where you can find me elsewhere on the web
+> List of where you can find or contact me elsewhere on the web
 
 Too much? <a href='{{ baseurl }}/hello/'>Here's an overview</a>
 
-## Sharing
+<!-- 
 
-*Mostly social networks*
+-->
 
-- [Twitter](https://twitter.com/davisonio)
-- [Ello](https://ello.co/davisonio)
-- [iFunny](http://ifunny.co/davisonio)
-- [Vine](https://vine.co/davisonio)
-- [Imgur](https://imgur.com/user/davisonio)
-- [Peach](http://peach.cool/add/davisonio)
-
-
-## Reading
-
-*Places I like to read things or catch up on topics*
-
-- [Medium](https://medium.com/@davisonio)
-
-
-## Writing
-
-*Usually writing blog posts or writing code*
-
-- [GitHub](https://github.com/davisonio)
 - [Bitbucket](https://bitbucket.org/davisonio/)
 - [CodePen](http://codepen.io/davisonio/)
-- [Craig Davison's Blog](https://blog.davison.io)
-
-
-## Watching
-
-- [Vimeo](https://vimeo.com/davisonio)
+- [Ello](https://ello.co/davisonio)
+- [GitHub](https://github.com/davisonio)
+- [iFunny](http://ifunny.co/davisonio)
+- [Imgur](https://imgur.com/user/davisonio)
+- [Medium](https://medium.com/@davisonio) - reading interesting things and sometimes writing on my [blog](https://blog.davison.io)
 - [Meerkat](https://meerkatapp.co/davisonio)
-
-
-## Listening
-
-- [SoundCloud](https://soundcloud.com/davisonio)
-
-
-## Messaging
-
-- [Email](mailto:craig@davison.io)
-
-
-## Discussing
-
-*Forum-like sites or discussion communities*
-
+- [Peach](http://peach.cool/add/davisonio)
 - [Quora](https://www.quora.com/profile/Craig-Davison-3)
+- [SoundCloud](https://soundcloud.com/davisonio)
 - [Stack Exchange](https://stackexchange.com/users/6582211/craig-davison)
-
-
-<!--
-## Navigating
-
-
-## Buying
-
-
-## Accessing
-
-
-## Learning
-
-
-## Testing
-
-
-## Referring
-
-
-## Utilising
-
-
-## Managing
-
-
-## Editing
-
-
-## Playing
-
-
-## Getting
--->
+- [Twitter](https://twitter.com/davisonio)
+- [Vimeo](https://vimeo.com/davisonio)
+- [Vine](https://vine.co/davisonio)
