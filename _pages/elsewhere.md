@@ -18,6 +18,7 @@ Too much? <a href='{{ baseurl }}/hello/'>Here's an overview</a>
 - [GitHub](https://github.com/davisonio)
 - [iFunny](http://ifunny.co/davisonio)
 - [Imgur](https://imgur.com/user/davisonio)
+- [Kickstarter](https://www.kickstarter.com/profile/davisonio)
 - [Medium](https://medium.com/@davisonio) - reading interesting things and sometimes writing on my [blog](https://blog.davison.io)
 - [Meerkat](https://meerkatapp.co/davisonio)
 - [Peach](http://peach.cool/add/davisonio)
