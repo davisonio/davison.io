@@ -12,8 +12,8 @@ Too much? <a href='{{ baseurl }}/hello/'>Here's an overview</a>
 
 -->
 
-- [Atom](https://atom.io/users/davisonio)
 - [Amazon](https://www.amazon.co.uk/gp/profile/AQ1PI9JYK1YBD)
+- [Atom](https://atom.io/users/davisonio)
 - [Bitbucket](https://bitbucket.org/davisonio/)
 - [CodePen](http://codepen.io/davisonio/)
 - [Ello](https://ello.co/davisonio)
