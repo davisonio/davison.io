@@ -12,6 +12,7 @@ Too much? <a href='{{ baseurl }}/hello/'>Here's an overview</a>
 
 -->
 
+- [Amazon](https://www.amazon.co.uk/gp/profile/AQ1PI9JYK1YBD)
 - [Bitbucket](https://bitbucket.org/davisonio/)
 - [CodePen](http://codepen.io/davisonio/)
 - [Ello](https://ello.co/davisonio)
