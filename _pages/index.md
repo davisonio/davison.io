@@ -8,7 +8,7 @@ permalink: /
 	<span id="my-profile-picture"></span>
 	<h1 id="my-name">Craig Davison</h1>
 
-	<p id="my-description">I don't see why not. ¯\_(ツ)_/¯</p>
+	<p id="my-description">{{ site.description }}</p>
 	<div class="social-heaven">
 		<a class="hvr-pop" href="https://twitter.com/davisonio">
 			<i title="Twitter" class="fa fa-twitter fa-2x"></i>
