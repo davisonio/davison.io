@@ -6,7 +6,7 @@ permalink: /
 
 <div class="center">
 	<span id="my-profile-picture"></span>
-	<h1 id="my-name">Craig Davison</h1>
+	<h1 id="my-name">{{ site.title }}</h1>
 
 	<p id="my-description">{{ site.description }}</p>
 	<div class="social-heaven">
