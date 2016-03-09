@@ -14,7 +14,7 @@
 
 Here's the source code of my website which you can find on the interwebs over at [davison.io](https://davison.io).
 
-Using [Jekyll](https://jekyllrb.com)
+Using [Jekyll](https://jekyllrb.com) and [Poole](http://getpoole.com)!
 
 ![](https://davison.io/assets/img/davison-io-index.png)
 
