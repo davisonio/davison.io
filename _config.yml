@@ -8,6 +8,7 @@ baseurl: ""
 # Files or directories starting with a _ or . are automatically excluded.
 exclude:
   - README.md
+  - CONTRIBUTING.md
 
 include:
   - _pages
