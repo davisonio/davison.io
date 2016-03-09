@@ -16,7 +16,7 @@ Here's the source code of my website which you can find on the interwebs over at
 
 Using [Jekyll](https://jekyllrb.com)
 
-![](https://davison.io/assets/img/davison.io-index.png)
+![](https://davison.io/assets/img/davison-io-index.png)
 
 ## Install
 
