@@ -1,11 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  {% include head.html %}
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="description" content="{{ site.description }}">
+      <title>
+        {% if page.title == "Home" %}
+          {{ site.title }}
+        {% else %}
+          {{ page.title }} · {{ site.title }}
+        {% endif %}
+      </title>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+      <link rel="stylesheet" href="https://cdn.rawgit.com/FortAwesome/Font-Awesome/v4.5.0/css/font-awesome.min.css">
+      <link rel="stylesheet" href="https://cdn.rawgit.com/IanLunn/Hover/2.0.2/css/hover-min.css">
+      <link rel="stylesheet" href="https://cdn.rawgit.com/mblode/burger/v2.0.2/dist/css/burger.min.css">
+      <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/poole.css">
+      <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
+      <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/navigation.css">
+      <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+    </head>
 
   <body>
     <span class="top-title-button">
-      <a href="https://davison.io">@davisonio</a>
+      <a href="https://davison.io">{{ site.at }}</a>
     </span>
 
     <div class="b-nav">
@@ -28,5 +48,5 @@
     </div>
   </body>
 
-  {% include footer.html %}
+  <script src="https://cdn.rawgit.com/mblode/burger/v2.0.2/dist/scripts/burger.min.js"></script>
 </html>
