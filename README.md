@@ -1,6 +1,6 @@
 # [davison.io](https://davison.io/davison.io/) :globe_with_meridians: [![](https://img.shields.io/travis/davisonio/davison.io.svg?style=flat-square)](https://travis-ci.org/davisonio/davison.io)
 
-> Craig Davison's website @ [davison.io](http://davison.io)
+> Craig Davison's website @ [davison.io](https://davison.io)
 
 <p align="center">
 <b><a href="#install">Install</a></b>
@@ -14,9 +14,9 @@
 
 Here's the source code of my website which you can find on the interwebs over at [davison.io](https://davison.io).
 
-The website was mainly built from scratch with a little help from [Poole](http://getpoole.com).
+Using [Jekyll](https://jekyllrb.com)
 
-![](https://davison.io/assets/img/davison.io/index.png)
+![](https://davison.io/assets/img/davison.io-index.png)
 
 ## Install
 
@@ -38,6 +38,6 @@ Unless otherwise stated:
 
 - Copyright © 2015+ [Craig Davison](https://davison.io). Released under the [MIT License](http://davisonio.mit-license.org/2015).
 
-Based on [Poole](http://getpoole.com) for [Jekyll](http://jekyllrb.com):
+Based on [nomorecharitablestatus.com](https://github.com/nomorec/nomorec.github.io) and [Solo](http://chibicode.github.io/solo/):
 
-- Copyright © 2014 [Mark Otto](http://markdotto.com). Released under the [MIT License](https://github.com/poole/poole/blob/master/LICENSE.md).
+- Copyright © 2015 [Shu Uesugi](http://chibicode.com). Released under the [MIT License](https://github.com/chibicode/solo/blob/gh-pages/LICENSE).
