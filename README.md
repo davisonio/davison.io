@@ -38,6 +38,6 @@ Unless otherwise stated:
 
 - Copyright © 2015+ [Craig Davison](https://davison.io). Released under the [MIT License](http://davisonio.mit-license.org/2015).
 
-Based on [nomorecharitablestatus.com](https://github.com/nomorec/nomorec.github.io) and [Solo](http://chibicode.github.io/solo/):
+Based on [Poole](http://getpoole.com):
 
-- Copyright © 2015 [Shu Uesugi](http://chibicode.com). Released under the [MIT License](https://github.com/chibicode/solo/blob/gh-pages/LICENSE).
+- Copyright © 2014 [Mark Otto](http://markdotto.com). Released under the [MIT License](https://github.com/poole/poole/blob/master/LICENSE.md).
