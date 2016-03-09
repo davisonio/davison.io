@@ -7,10 +7,6 @@
 ·
 <b><a href="#bug-reports">Bug reports</a></b>
 ·
-<b><a href="#documentation">Documentation</a></b>
-·
-<b><a href="#translations">Translations</a></b>
-·
 <b><a href="#something-else">Something else</a></b>
 ·
 <b><a href="#additional-notes">Additional notes</a></b>
@@ -19,10 +15,6 @@
 ## Code
 
 ## Bug reports
-
-## Documentation
-
-## Translations
 
 ## Something else
 
