@@ -20,7 +20,6 @@ Too much? <a href='{{ baseurl }}/hello/'>Here's an overview</a>
 - [Creative Market](https://creativemarket.com/davisonio)
 - [Devhumor](https://devhumor.com/user/davisonio)
 - [Disqus](http://disqus.com/by/davisonio)
-- [eBay](http://www.ebay.co.uk/usr/davisonio)
 - [Ello](https://ello.co/davisonio) - getting creative ideas & sharing my photography <!-- https://photography.davison.io -->
 - [Email](mailto:craig@davison.io)
 - [Facebook](https://www.facebook.com/craig.davison1) - sharing with those who I have become acquainted with
