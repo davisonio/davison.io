@@ -20,7 +20,7 @@ Too much? <a href='{{ baseurl }}/hello/'>Here's an overview</a>
 - [Creative Market](https://creativemarket.com/davisonio)
 - [Devhumor](https://devhumor.com/user/davisonio)
 - [Disqus](http://disqus.com/by/davisonio)
-- [Ello](https://ello.co/davisonio) - getting creative ideas & sharing my photography <!-- https://photography.davison.io -->
+- [Ello](https://ello.co/davisonio) - sharing my photography <!-- https://photography.davison.io -->
 - [Email](mailto:craig@davison.io)
 - [Facebook](https://www.facebook.com/craig.davison1) - sharing with people I've met
 - [Flippa](https://flippa.com/users/926571)
@@ -29,11 +29,11 @@ Too much? <a href='{{ baseurl }}/hello/'>Here's an overview</a>
 - [IFTTT](https://ifttt.com/p/davisonio)
 - [iFunny](http://ifunny.co/davisonio)
 - [Imgur](https://imgur.com/user/davisonio)
-- [IRC](irc://irc.freenode.net/davisonio,isnick) - messaging using *davisonio* on [freenode](https://freenode.net)
+- [IRC](irc://irc.freenode.net/davisonio,isnick) - messaging as *davisonio* on [freenode](https://freenode.net)
 - [Kickstarter](https://www.kickstarter.com/profile/davisonio)
 - [LinkedIn](http://uk.linkedin.com/in/davisonio)
 - [Makerbase](https://makerbase.co/m/x75bg4)
-- [Medium](https://medium.com/@davisonio) - reading interesting stories & sometimes writing posts for my [blog](https://blog.davison.io)
+- [Medium](https://medium.com/@davisonio) - recommending articles & writing posts for my [blog](https://blog.davison.io)
 - [Meerkat](https://meerkatapp.co/davisonio)
 - [Mixcloud](https://www.mixcloud.com/davisonio/)
 - [Nomad Trips](https://nomadtrips.co/davisonio)
