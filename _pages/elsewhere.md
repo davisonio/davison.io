@@ -22,7 +22,7 @@ Too much? <a href='{{ baseurl }}/hello/'>Here's an overview</a>
 - [Disqus](http://disqus.com/by/davisonio)
 - [Ello](https://ello.co/davisonio) - getting creative ideas & sharing my photography <!-- https://photography.davison.io -->
 - [Email](mailto:craig@davison.io)
-- [Facebook](https://www.facebook.com/craig.davison1) - sharing with those who I have become acquainted with
+- [Facebook](https://www.facebook.com/craig.davison1) - sharing with people I've met
 - [Flippa](https://flippa.com/users/926571)
 - [GitHub](https://github.com/davisonio)
 - [Hacker News](https://news.ycombinator.com/user?id=davisonio)
@@ -48,10 +48,10 @@ Too much? <a href='{{ baseurl }}/hello/'>Here's an overview</a>
 - [Snapchat](https://www.snapchat.com/add/davisonio)
 - [Stack Exchange](https://stackexchange.com/users/6582211/craig-davison)
 - [Trello](https://trello.com/davisonio)
-- [Twitter](https://twitter.com/davisonio)
+- [Twitter](https://twitter.com/davisonio) - sharing with everyone
 - [Udemy](https://www.udemy.com/user/craig-davison/)
 - [Unsplash](https://unsplash.com/davisonio)
 - [Versioning](https://www.sitepoint.com/versioning/@davisonio)
 - [Vimeo](https://vimeo.com/davisonio)
 - [Vine](https://vine.co/davisonio)
-- [Wiki](https://meta.wikimedia.org/wiki/User:Davisonio) - editing [some wikis](https://meta.wikimedia.org/wiki/User:Davisonio/Elsewhere)
+- [Wiki](https://meta.wikimedia.org/wiki/User:Davisonio) - editing [various wikis](https://meta.wikimedia.org/wiki/User:Davisonio/Elsewhere)
