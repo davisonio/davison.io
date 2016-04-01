@@ -8,8 +8,12 @@ permalink: /elsewhere/
 
 Too much? <a href='{{ baseurl }}/me/'>Here's an overview</a>
 
-<!-- Not including niche forum/discussion type sites or any other boring places. -->
-<!-- They might also be commented out, also if they're not in use much. -->
+<!--
+	If not included, using strike-through or commented out:
+		- some boring place
+		- some niche forum/discussion type site
+		- some place not in use or any other boring places.
+-->
 
 - [Amazon](https://www.amazon.co.uk/gp/profile/AQ1PI9JYK1YBD)
 - [Atom](https://atom.io/users/davisonio)
