@@ -33,3 +33,7 @@ Unless otherwise stated:
 [`assets/css/poole.css`](https://github.com/davisonio/davison.io/blob/master/assets/css/poole.css) and [`assets/css/syntax.css`](https://github.com/davisonio/davison.io/blob/master/assets/css/syntax.css):
 
 - Copyright © 2014 [Mark Otto](http://markdotto.com). Released under the [MIT License](https://github.com/poole/poole/blob/master/LICENSE.md).
+
+[`assets/css/github-markdown.css`](https://github.com/davisonio/davison.io/blob/master/assets/css/github-markdown.css)
+
+- Copyright © [Sindre Sorhus](https://sindresorhus.com). Released under the [MIT License](https://github.com/sindresorhus/github-markdown-css/blob/gh-pages/license).
