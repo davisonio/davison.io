@@ -6,9 +6,9 @@ permalink: /
 
 <div class="center">
 	<span id="my-profile-picture"></span>
-	<h1 id="my-name">{{ site.title }}</h1>
- 
-	<p id="my-description">{{ site.description }}</p>
+	<a id="my-name" href="{{ baseurl }}/me/"><h1 id="my-name">{{ site.title }}</h1></a>
+
+	<p id="my-description">{{ site.description }} <a href="{{ baseurl }}/me/">➤</a></p>
 	<div class="social-heaven">
 		<a class="hvr-pop" href="https://twitter.com/davisonio">
 			<i title="Twitter" class="fa fa-twitter fa-2x"></i>

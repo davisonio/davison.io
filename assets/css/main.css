@@ -6,18 +6,6 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 
-/* Nice, orange links */
-a {
-  color: #FFAB42;
-  text-decoration: none;
-}
-
-a:hover,
-a:focus {
-  color: #E89D3E;
-  text-decoration: underline;
-}
-
 .center {
   text-align: center;
 }
@@ -50,6 +38,10 @@ span#my-profile-picture {
 h1#my-name {
   margin-top: 2rem;
   font-size: 3rem;
+}
+
+a#my-name {
+  color: #313131;
 }
 
 p#my-description {
