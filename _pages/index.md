@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div class="center">
-	<span id="my-profile-picture"></span>
+	<a href="{{ baseurl }}/me/"><span id="my-profile-picture"></span></a>
 	<a id="my-name" href="{{ baseurl }}/me/"><h1 id="my-name">{{ site.title }}</h1></a>
 
 	<p id="my-description">{{ site.description }} <a href="{{ baseurl }}/me/">➤</a></p>
