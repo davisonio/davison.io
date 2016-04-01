@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: Bacon · Minetest · Projects
 permalink: /minetest/bacon/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: Coloured stone bricks · Minetest · Projects
 permalink: /minetest/colouredstonebricks/
 ---

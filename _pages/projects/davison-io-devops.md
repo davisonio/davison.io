@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: davison.io DevOps · Projects
 permalink: /davison.io-devops/index.html
 ---

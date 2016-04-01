@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: SimplePixels · Minetest · Projects
 permalink: /minetest/simplepixels/
 ---

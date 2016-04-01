@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: Craig's Server · Minetest · Projects
 permalink: /minetest/craig-server/
 ---

@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Minetest · Projects
 permalink: /minetest/
 ---
-
-<h1 class="page-title">Minetest</h1>
 
 - [Darkage](/minetest/darkage/) - Darkage mod for Minetest
 - [Bacon](/minetest/bacon/) - Bacon mod for Minetest

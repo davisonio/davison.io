@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: Fountainhead · Projects
 permalink: /fountainhead/
 ---

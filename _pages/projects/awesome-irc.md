@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: Awesome IRC · Projects
 permalink: /awesome-irc/
 ---
