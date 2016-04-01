@@ -6,7 +6,7 @@ permalink: /elsewhere/
 
 > List of where you can find or contact me elsewhere on the web
 
-Too much? <a href='{{ baseurl }}/hello/'>Here's an overview</a>
+Too much? <a href='{{ baseurl }}/me/'>Here's an overview</a>
 
 <!-- Not including niche forum/discussion type sites or any other boring places. -->
 <!-- They might also be commented out, also if they're not in use much. -->
