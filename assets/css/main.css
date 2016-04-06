@@ -49,6 +49,12 @@ p#my-description {
   padding-top: 1.5rem;
 }
 
+a#my-description, a#my-description:hover {
+  color: #515151;
+  text-decoration: none;
+}
+
+
 .social-heaven .fa {
   /* Just the right amount of spacing for multiple icons! */
   margin-left: 0.7rem;
