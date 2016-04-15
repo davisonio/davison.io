@@ -4,9 +4,9 @@ title: Elsewhere
 permalink: /elsewhere/
 ---
 
-> List of where you can find or contact me elsewhere on the web
+Here's a comprehensive list of where you can find or contact me elsewhere on the web.
 
-Too much? <a href='{{ baseurl }}/me/'>Here's an overview</a>
+Or perhaps view [an overview]({{ baseurl }}/me/) instead?
 
 <!--
 	If not included, using strike-through or commented out:
