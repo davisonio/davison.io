@@ -24,20 +24,20 @@ Here's a comprehensive list of where you can find or contact me elsewhere on the
 - [Creative Market](https://creativemarket.com/davisonio)
 <!-- [Devhumor](https://devhumor.com/user/davisonio) -->
 - [Disqus](http://disqus.com/by/davisonio)
-- [Ello](https://ello.co/davisonio) - sharing my photography <!-- https://photography.davison.io -->
+- [Ello](https://ello.co/davisonio) - sharing my photography
 - [Email](mailto:craig@davison.io)
 - [Facebook](https://www.facebook.com/craig.davison1) - sharing with people I've met
 - [Flippa](https://flippa.com/users/926571)
-- [GitHub](https://github.com/davisonio) - sharing my code <!-- https://code.davison.io -->
+- [GitHub](https://github.com/davisonio) - sharing my code
 - [Hacker News](https://news.ycombinator.com/user?id=davisonio)
 - [IFTTT](https://ifttt.com/p/davisonio)
 <!-- - [iFunny](http://ifunny.co/davisonio) -->
 - [Imgur](https://imgur.com/user/davisonio)
-- [IRC](irc://irc.freenode.net/davisonio,isnick) - messaging as *davisonio* on [freenode](https://freenode.net)
+- [IRC](irc://irc.freenode.net/davisonio,isnick) - messaging as *davisonio* on freenode
 - [Kickstarter](https://www.kickstarter.com/profile/davisonio)
 - [LinkedIn](http://uk.linkedin.com/in/davisonio)
 - [Makerbase](https://makerbase.co/m/x75bg4)
-- [Medium](https://medium.com/@davisonio) - recommending articles & writing posts for my [blog](https://blog.davison.io)
+- [Medium](https://medium.com/@davisonio) - recommending articles & writing posts for my blog
 <!-- - [Meerkat](https://meerkatapp.co/davisonio) -->
 - [Mixcloud](https://www.mixcloud.com/davisonio/)
 - [Nomad Trips](https://nomadtrips.co/davisonio)
@@ -58,4 +58,4 @@ Here's a comprehensive list of where you can find or contact me elsewhere on the
 <!-- - [Versioning](https://www.sitepoint.com/versioning/@davisonio) -->
 - [Vimeo](https://vimeo.com/davisonio)
 - [Vine](https://vine.co/davisonio)
-- [Wiki](https://meta.wikimedia.org/wiki/User:Davisonio) - editing [various wikis](https://meta.wikimedia.org/wiki/User:Davisonio/Elsewhere) to share free knowledge
+- [Wiki](https://meta.wikimedia.org/wiki/User:Davisonio) - sharing knowledge
