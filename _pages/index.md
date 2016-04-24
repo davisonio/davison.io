@@ -5,8 +5,8 @@ permalink: /
 ---
 
 <div class="center">
-	<a href="{{ baseurl }}/me/"><span id="my-profile-picture"></span></a>
-	<a id="my-name" href="{{ baseurl }}/me/"><h1 id="my-name">{{ site.title }}</h1></a>
+	<span id="my-profile-picture"></span>
+	<h1 id="my-name">{{ site.title }}</h1>
 
 	<a id="my-description" href="{{ baseurl }}/now/"><p id="my-description">{{ site.description }}</p></a>
 	<div class="social-heaven">
