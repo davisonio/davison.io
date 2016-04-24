@@ -6,7 +6,7 @@ permalink: /elsewhere/
 
 Here's a comprehensive list of where you can find or contact me elsewhere on the web.
 
-Or perhaps view [an overview]({{ baseurl }}/me/) instead?
+*See also: [Contact Me]({{ baseurl }}/contact/)*
 
 <!--
 	If not included, using strike-through or commented out:
