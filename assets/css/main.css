@@ -65,16 +65,20 @@ a#my-description, a#my-description:hover {
 }
 
 /* Colours are from the main colour of the site's logo */
-.fa-twitter:hover {
-  color: #55acee;
+.fa-medium:hover {
+  color: #0BE370;
 }
 
 .fa-github:hover {
   color: #333333;
 }
 
-.fa-medium:hover {
-  color: #0BE370;
+.fa-camera:hover {
+  color: black;
+}
+
+.fa-twitter:hover {
+  color: #55acee;
 }
 
 .fa-ellipsis-h:hover {
