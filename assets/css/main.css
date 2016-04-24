@@ -49,6 +49,7 @@ p#my-description {
   padding-top: 1.5rem;
 }
 
+/* Make description link look normal */
 a#my-description, a#my-description:hover {
   color: #515151;
   text-decoration: none;
