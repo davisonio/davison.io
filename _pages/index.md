@@ -10,16 +10,19 @@ permalink: /
 
 	<a id="my-description" href="{{ baseurl }}/now/"><p id="my-description">{{ site.description }}</p></a>
 	<div class="social-heaven">
-		<a class="hvr-pop" href="https://twitter.com/davisonio">
-			<i title="Twitter" class="fa fa-twitter fa-2x"></i>
+		<a class="hvr-pop" href="https://medium.com/@davisonio">
+			<i title="Medium" class="fa fa-medium fa-2x"></i>
 		</a>
 		<a class="hvr-pop" href="https://github.com/davisonio">
 			<i title="GitHub" class="fa fa-github fa-2x"></i>
 		</a>
-		<a class="hvr-pop" href="https://medium.com/@davisonio">
-			<i title="Medium" class="fa fa-medium fa-2x"></i>
+		<a class="hvr-pop" href="https://ello.co/davisonio">
+			<i title="Ello" class="fa fa-camera fa-2x"></i>
 		</a>
-		<a class="hvr-pop" href="https://davison.io/elsewhere/">
+		<a class="hvr-pop" href="https://twitter.com/davisonio">
+			<i title="Twitter" class="fa fa-twitter fa-2x"></i>
+		</a>
+		<a class="hvr-pop" href="{{ baseurl }}/elsewhere/">
 			<i title="Elsewhere" class="fa fa-ellipsis-h fa-2x"></i>
 		</a>
 	</div>
