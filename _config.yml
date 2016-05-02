@@ -12,6 +12,7 @@ exclude:
 
 include:
   - _pages
+  - .well-known
 
 # It's good practice to set a permalink manually for each post but if not, here:
 permalink: /:title/

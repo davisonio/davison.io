@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/davisonio
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://davison.io
+  * I am davisonio (https://keybase.io/davisonio) on keybase.
+  * I have a public key with fingerprint F1D0 ACA4 6B5B 6B21 7613  201B 77C2 1102 FC13 06DF
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010112067b93433b9d64fd7cc413d8c81d597a99d8aa5eb83255166ca60b0b80d8a50a",
+            "fingerprint": "f1d0aca46b5b6b217613201b77c21102fc1306df",
+            "host": "keybase.io",
+            "key_id": "77c21102fc1306df",
+            "kid": "010112067b93433b9d64fd7cc413d8c81d597a99d8aa5eb83255166ca60b0b80d8a50a",
+            "uid": "c50720085b930a174e9f8999ac1ab719",
+            "username": "davisonio"
+        },
+        "service": {
+            "hostname": "davison.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1462196335,
+    "expire_in": 157680000,
+    "prev": "6900ec43316f704e7e88fb57eed01cb142980452d0bcfbe85467822005dfc4d2",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMM7AnicrVJ/TJRlHL+D8wxIC8EdqOR6p7HlAe/z/n7BIzMduGlHYgmIXO+P54UX
+zrvzfV8OuItKwilR5nQDJ+gC1hTRtE0uhMGUQf6h7i5iky0FLG0yKihMDRj1HtUf
+bf3Z88+z57PP5/N8vp99B5ZFGqKNFf2xEfNx5jHjjWsN5YbdyXluP8K7xSok3Y+U
+wcULOkWoao4yWUTSERSgAGAoRfMsTuA4z4oUIYm0IBAAFxmBASLJ0hzLigzHkZBn
+cIwkAUUJHIXyKM+gOk6iHGJFJNlVDBWPIrs03VYCIsoJHEHxJE/xGKApgGMo4Gla
+wABAMUkAOEqJki4scathhR6O51SYKrt1TH84FuP9B/9/zl2+aCeQKI2hKEPqdigH
+aAKyEsOyLCcAjqcBGyaqUHFx+6DOFjmvrLpdetRqK6LDXlmA4WbDo/yb8tc4HsWt
+uQW3U8dLNM2jpod1WpUnTKyAvONvCwcvu0S9Rl3hhYoqu11IOtCZgiaHPQFBYYCl
+cJy0IrDSIyvQIYcZJE0xqH7C/0CvbkmxKAoFvRVASTRKQBoyjMSTNIQiCgQeEBjL
+oASJiSgvSDxkSIKiGUwfnxQlgRAxJDzUfpcbSaf0mFyxbqnKxS5OK1cgUt1/rdBk
+MEYbzEsiwutliI56/p+lG1793B97104WPoprzMCyqKG0y40ptsGHmxzt8JulMTH7
+zlmJ27vtcWdSDoV+2XB7fontmDaV1jXdbfvCvq5v1nv2EteNLFAXPntYc/7EXE9f
+Welp25blL/REJuacsc7NdenVGpXOr+gme0/Jyxn748BMr239QntgcPPgaJJl/k3P
+hVpb6IPK90/WVSZUD1vqP9nobHX8lsxlxpM7yhqcUw/MW32PD+xJ68vfHjvtI/Bo
+TyD3euaxmpyO7BLb1pvme86uol9JY+eRN9on8t79ucmjHp1a1XX38i2FXnFnOLXQ
+tDZHKm2YqLWTicHZloqhYaWg4OpUj6P3hGmF5WBEXlsyKBoqm/oo1B2101Tn8e0q
+eLa9/LH/vtCiXk24uPMU+WTsRvbH2T7/28GojmZLzE/nen9/ptWUG1+VGHrVP/3W
+6chPu380FT3Nndhxc643NDujhG4FWpNio9aNnLQEEpJ8d1MO5DypPxg4ntpxvCLj
+wWFTrfWdgUO72rqa8u2p23D/ve+veAc7NxvP5sQF2z2r9rz+Wtb25onV2pXUlOaB
+ueVfH8l3BQOblp5v6K979CH1ymTMwuiLwRjDdV9rXdA7uebUS5//8LR2y4bRb1fW
+q/fHx9kvm9cHV/ZMX+LHmb6mtpbMRsuy77JGzGalaXTGNDJC1aTxG9e8V2p3mqfv
+aPHJF6v3EmN/Akh5uLs=
+=ZN6R
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davisonio
+
+==================================================================
