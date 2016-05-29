@@ -36,7 +36,6 @@ Here's where you can find me elsewhere on the Web.
 - [QuizUp](https://www.quizup.com/profiles/235332054236811160) - learning using quiz games
 - [Quora](https://www.quora.com/profile/Craig-Davison-3) - browsing great answers to great questions
 - [Reddit](https://www.reddit.com/user/davisonio/) - browsing the front page of the internet
-- [Snapchat](https://www.snapchat.com/add/davisonio) - (semi-private) sharing day-to-day life on my story and messaging with friends
 - [SoundCloud](https://soundcloud.com/davisonio) - listening to music
 - [Stack Exchange](https://stackexchange.com/users/6582211/craig-davison) - browsing solutions to problems
 - [Trello](https://trello.com/davisonio) - organising projects
