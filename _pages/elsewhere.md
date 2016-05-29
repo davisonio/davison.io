@@ -9,11 +9,10 @@ Here's where you can find me elsewhere on the Web.
 - [Amazon](https://www.amazon.co.uk/gp/profile/AQ1PI9JYK1YBD) - reviews of products
 - [Atom](https://atom.io/users/davisonio) - my packages and themes for my editor of choice
 - [Bitbucket](https://bitbucket.org/davisonio/) - sharing some of my code
-- [Bitly](https://bitly.com/u/davisonio) - sharing short URLs
 - [Codecademy](https://www.codecademy.com/davisonio) - learning to code
 - [CodePen](http://codepen.io/davisonio/) - code demos
 - [Creative Market](https://creativemarket.com/davisonio) - buying themes, graphics & fonts
-- [Disqus](http://disqus.com/by/davisonio) - my comments
+- [Disqus](https://disqus.com/by/davisonio/) - my comments
 - [Ello](https://ello.co/davisonio) - sharing amateur photography
 - [Email](mailto:craig@davison.io) - contact me via email
 - [Facebook](https://www.facebook.com/craigdavisonio) - (semi-private) sharing with friends
@@ -43,7 +42,7 @@ Here's where you can find me elsewhere on the Web.
 - [Trello](https://trello.com/davisonio) - organising projects
 - [Twitter](https://twitter.com/davisonio) - sharing with everyone
 - [Udemy](https://www.udemy.com/user/craig-davison/) - learning by using courses
-- [Unsplash](https://unsplash.com/davisonio) - sharing my photography for free
+- [Unsplash](https://unsplash.com/@davisonio) - sharing my photography for free
 - [Vimeo](https://vimeo.com/davisonio) - watching videos
 - [Vine](https://vine.co/davisonio) - sharing short looping videos
 - [Wikimedia](https://meta.wikimedia.org/wiki/User:Davisonio) - learning using free knowledge
