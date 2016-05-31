@@ -33,7 +33,6 @@ Here's where you can find me elsewhere on the Web.
 - [Peach](http://peach.cool/add/davisonio) - sharing gifs & thoughts
 - [Periscope](https://www.periscope.tv/davisonio) - watching live streams
 - [Product Hunt](https://www.producthunt.com/@davisonio) - browsing the best new products
-- [QuizUp](https://www.quizup.com/profiles/235332054236811160) - learning using quiz games
 - [Quora](https://www.quora.com/profile/Craig-Davison-3) - browsing great answers to great questions
 - [Reddit](https://www.reddit.com/user/davisonio/) - browsing the front page of the internet
 - [SoundCloud](https://soundcloud.com/davisonio) - listening to music
