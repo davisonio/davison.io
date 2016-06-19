@@ -8,11 +8,13 @@ Here's where you can find me elsewhere on the Web.
 
 - [Amazon](https://www.amazon.co.uk/gp/profile/AQ1PI9JYK1YBD) - reviews of products
 - [Atom](https://atom.io/users/davisonio) - my packages and themes for my editor of choice
+- [BetaList](https://betalist.com/@davisonio) - joining new startups
 - [Bitbucket](https://bitbucket.org/davisonio/) - sharing some of my code
 - [Codecademy](https://www.codecademy.com/davisonio) - learning to code
 - [CodePen](http://codepen.io/davisonio/) - code demos
 - [Creative Market](https://creativemarket.com/davisonio) - buying themes, graphics & fonts
 - [Disqus](https://disqus.com/by/davisonio/) - my comments
+- [Duolingo](https://www.duolingo.com/davisonio) - learning new languages
 - [Ello](https://ello.co/davisonio) - sharing amateur photography
 - [Email](mailto:craig@davison.io) - contact me via email
 - [Facebook](https://www.facebook.com/craigdavisonio) - (semi-private) sharing with friends
