@@ -1,9 +1,12 @@
 ---
-layout: main
-title: Coloured stone bricks · Minetest · Projects
+layout: page
+title: Awesome IRC · Minetest · Projects
 permalink: /minetest/colouredstonebricks/
+title_alt: Coloured stone bricks
 ---
 
-<h1 class="page-title">Coloured stone bricks</h1>
+![Coloured stone bricks Screenshot](/assets/img/minetest-colouredstonebricks-screenshot.png)
 
-comingsoon.gif
+Coloured stone bricks is available for contributing [on GitHub](https://github.com/davisonio/colouredstonebricks).
+
+<iframe src="https://ghbtns.com/github-btn.html?user=davisonio&repo=colouredstonebricks&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="130px" height="30px"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=davisonio&repo=colouredstonebricks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="120px" height="30px"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=davisonio&repo=colouredstonebricks&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="120px" height="30px"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=davisonio&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="180px" height="30px"></iframe>
