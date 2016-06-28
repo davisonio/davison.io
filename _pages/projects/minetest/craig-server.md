@@ -5,11 +5,12 @@ permalink: /minetest/craig-server/
 title_alt: Craig's Server
 ---
 
+![Craig's Server Screenshot 1](/assets/img/minetest-craig-server-screenshot1.jpg)
+
 Well-built, reliable and popular world for new or experienced builders.
 
 ## Screenshots
 
-![Craig's Server Screenshot 1](/assets/img/minetest-craig-server-screenshot1.jpg)
 ![Craig's Server Screenshot 2](/assets/img/minetest-craig-server-screenshot2.jpg)
 ![Craig's Server Screenshot 3](/assets/img/minetest-craig-server-screenshot3.jpg)
 ![Craig's Server Screenshot 4](/assets/img/minetest-craig-server-screenshot4.jpg)
