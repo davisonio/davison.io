@@ -16,4 +16,4 @@ What I've worked on or am working on at the moment.
   - [SimplePixels](/minetest/simplepixels/) - SimplePixels texture pack for Minetest
   - [Coloured stone bricks](/minetest/colouredstonebricks/) - Coloured stone bricks mod for Minetest
   - [Craig's Server Game](/minetest/craig-server_game/) - Game used by Craig's Minetest Server
-  - [Craig's Server](/minetest/craig-server/) - Well-built, reliable and popular world for for new or experienced builders
+  - [Craig's Server](/minetest/craig-server/) - Well-built, reliable and popular world for new or experienced builders

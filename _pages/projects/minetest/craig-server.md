@@ -5,7 +5,7 @@ permalink: /minetest/craig-server/
 title_alt: Craig's Server
 ---
 
-Well-built, reliable and popular world for for new or experienced builders.
+Well-built, reliable and popular world for new or experienced builders.
 
 ## Screenshots
 
