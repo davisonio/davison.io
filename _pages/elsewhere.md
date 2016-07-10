@@ -10,6 +10,7 @@ Here's where you can find me elsewhere on the Web.
 - [Atom](https://atom.io/users/davisonio) - my packages and themes for my editor of choice
 - [BetaList](https://betalist.com/@davisonio) - joining new startups
 - [Bitbucket](https://bitbucket.org/davisonio/) - sharing some of my code
+- [Change.org](https://www.change.org/u/davisonio) - petitions
 - [Codecademy](https://www.codecademy.com/davisonio) - learning to code
 - [CodePen](http://codepen.io/davisonio/) - code demos
 - [Creative Market](https://creativemarket.com/davisonio) - buying themes, graphics & fonts
