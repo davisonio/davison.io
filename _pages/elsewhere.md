@@ -20,6 +20,7 @@ Here's where you can find me elsewhere on the Web.
 - [Facebook](https://www.facebook.com/craigdavisonio) - (semi-private) sharing with friends
 - [Flippa](https://flippa.com/users/926571) - buying website & domains
 - [GitHub](https://github.com/davisonio) - sharing my code
+- [Goodreads](https://www.goodreads.com/davisonio) - my book tracking system
 - [Hacker News](https://news.ycombinator.com/user?id=davisonio) - browsing the news that matters
 - [IFTTT](https://ifttt.com/p/davisonio) - workflows
 - [iFunny](http://ifunny.co/davisonio) - funny pictures and memes
