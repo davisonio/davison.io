@@ -17,7 +17,6 @@ Here's where you can find me elsewhere on the Web.
 - [Disqus](https://disqus.com/by/davisonio/) - my comments
 - [Duolingo](https://www.duolingo.com/davisonio) - learning new languages
 - [Ello](https://ello.co/davisonio) - sharing amateur photography
-- [Email](mailto:craig@davison.io) - contact me via email
 - [Facebook](https://www.facebook.com/craigdavisonio) - (semi-private) sharing with friends
 - [Flippa](https://flippa.com/users/926571) - buying website & domains
 - [GitHub](https://github.com/davisonio) - sharing my code
