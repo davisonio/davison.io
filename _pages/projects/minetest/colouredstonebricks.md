@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awesome IRC · Minetest · Projects
+title: Coloured stone bricks · Minetest · Projects
 permalink: /minetest/colouredstonebricks/
 title_alt: Coloured stone bricks
 ---
