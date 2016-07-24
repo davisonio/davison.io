@@ -9,6 +9,32 @@ title_alt: Craig's Server
 
 Well-built, reliable and popular world for new or experienced builders.
 
+## Team
+
+##### Owners
+
+- **CraigyDavi/davisonio**
+
+##### Admins
+
+- **Gabo**
+- **fishyWET**
+- **foot_on_teh_hill**
+- **lisacvuk**
+- **the_raven_262**
+- **RHR**
+- **Amaz**
+
+<!--
+### Previous Members
+
+- **Rhys**
+- **WhoCares**
+- **FMK**
+- **Potato**
+- **Esteban**
+-->
+
 ## Screenshots
 
 ![Craig's Server Screenshot 2](/assets/img/minetest-craig-server-screenshot2.jpg)
