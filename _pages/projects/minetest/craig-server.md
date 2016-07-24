@@ -10,7 +10,14 @@ title_alt: Craig's Server
 Well-built, reliable and popular world for new or experienced builders.
 
 - [Mod List](https://github.com/davisonio/craig-server_game#mod-list)
+- [Minetest Forum Topic](https://forum.minetest.net/viewtopic.php?f=10&t=7010)
 - [Chat (IRC)](https://kiwiirc.com/client/irc.freenode.net/davisonio-minetest)
+
+## Stats
+
+- Established: on **6 October 2013**
+- Players who have joined: over **75,200+**
+- Map size: **11.3GB** and growing fast
 
 ## Team
 
