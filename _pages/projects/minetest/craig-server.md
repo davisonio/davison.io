@@ -9,6 +9,9 @@ title_alt: Craig's Server
 
 Well-built, reliable and popular world for new or experienced builders.
 
+- [Mod List](https://github.com/davisonio/craig-server_game#mod-list)
+- [Chat (IRC)](https://kiwiirc.com/client/irc.freenode.net/davisonio-minetest)
+
 ## Team
 
 ##### Owners
