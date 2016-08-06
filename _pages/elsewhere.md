@@ -38,6 +38,7 @@ Here's where you can find me elsewhere on the Web.
 - [Product Hunt](https://www.producthunt.com/@davisonio) - browsing the best new products
 - [Quora](https://www.quora.com/profile/Craig-Davison-3) - browsing great answers to great questions
 - [Reddit](https://www.reddit.com/user/davisonio/) - browsing the front page of the internet
+- [Snapchat](https://www.snapchat.com/add/davisonio) - sharing my day
 - [SoundCloud](https://soundcloud.com/davisonio) - listening to music
 - [Stack Exchange](https://stackexchange.com/users/6582211/craig-davison) - browsing solutions to problems
 - [Trello](https://trello.com/davisonio) - organising projects
