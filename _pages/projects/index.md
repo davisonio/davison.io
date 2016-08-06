@@ -17,3 +17,4 @@ What I've worked on or am working on at the moment.
   - [Coloured stone bricks](/minetest/colouredstonebricks/) - Coloured stone bricks mod for Minetest
   - [Craig's Server Game](/minetest/craig-server_game/) - Game used by Craig's Minetest Server
   - [Craig's Server](/minetest/craig-server/) - Well-built, reliable and popular world for new or experienced builders
+- [Smoothie Stacks](/smoothiestacks/) - An Instagram account showcasing the best colorful smoothie stacks & layered smoothies.
