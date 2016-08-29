@@ -65,6 +65,14 @@ a#my-description, a#my-description:hover {
 }
 
 /* Colours are from the main colour of the site's logo */
+.fa-phone:hover {
+  color: #00FF6D;
+}
+
+.fa-envelope:hover {
+  color: #2C81E8;
+}
+
 .fa-medium:hover {
   color: #0BE370;
 }
@@ -73,12 +81,16 @@ a#my-description, a#my-description:hover {
   color: #333333;
 }
 
-.fa-camera:hover {
+.fa-circle:hover {
   color: black;
 }
 
 .fa-twitter:hover {
   color: #55acee;
+}
+
+.fa-snapchat-ghost:hover {
+  color: #fffc00;
 }
 
 .fa-ellipsis-h:hover {
