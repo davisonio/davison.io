@@ -7,7 +7,7 @@ title_alt: Smoothie Stacks
 
 ![Smoothie Stacks Screenshot](/assets/img/smoothiestacks-screenshot.png)
 
-An Instagram account showcasing the best colorful smoothie stacks & layered smoothies.
+Showcasing the best colourful smoothie stacks & layered smoothies.
 
 {% include badge/instagram.html username="smoothiestacks" %}
 
