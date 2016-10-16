@@ -11,4 +11,6 @@ Showcasing the best colourful smoothie stacks & layered smoothies.
 
 {% include badge/instagram.html username="smoothiestacks" %}
 
+{% include badge/facebook.html username="smoothiestacks" %}
+
 [![Email Badge](https://img.shields.io/badge/Email-smoothiestacks@davison.io-lightgrey.svg)](mailto:smoothiestacks@davison.io)
