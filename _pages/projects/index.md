@@ -15,5 +15,5 @@ permalink: /projects/
   - [Coloured stone bricks](/minetest/colouredstonebricks/) - Coloured stone bricks mod for Minetest
   - [Craig's Server Game](/minetest/craig-server_game/) - Game used by Craig's Minetest Server
   - [Craig's Server](/minetest/craig-server/) - Well-built, reliable and popular world for new or experienced builders
-- [Smoothie Stacks](/smoothiestacks/) - Showcasing the best colourful smoothie stacks & layered smoothies.
 - [Smoothie Stacks](/smoothiestacks/) - Showcasing the best colourful smoothie stacks & layered smoothies
+- [Cranleys](/cranleys/) - The website of Cranleys Chartered Accountants - Create Value, Achieve Success
