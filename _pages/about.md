@@ -14,7 +14,7 @@ I'm passionate about technology, business, the future and everything in between 
 
 You'll probably find me drinking too much coffee, working on a crazy [new project]({{ site.baseurl }}/projects/) or planning to take over the world.
 
-I'm enthusiastic about change and generally like spicing up things in unthinkable and unheard of ways.
+I'm enthusiastic about change and generally like spicing up things in unthinkable and unheard of ways. My personality type is [ISFJ-T](https://www.16personalities.com/isfj-personality).
 
 On the internet you'll find me on [Twitter](https://twitter.com/davisonio) and [Snapchat](https://www.snapchat.com/add/davisonio) and [various other places]({{ site.baseurl }}/elsewhere/) and I'll answer any questions [emailed to me](mailto:craig@davison.io)!
 
