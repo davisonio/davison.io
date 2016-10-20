@@ -4,4 +4,4 @@ title: Sent
 permalink: /contact/sent/
 ---
 
-Thanks, email sent!
+<p class='lead'>Thanks, email sent!</p>
