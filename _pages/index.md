@@ -25,7 +25,7 @@ permalink: /
 		<a class="hvr-pop" href="https://www.snapchat.com/add/davisonio">
 			<i title="Snapchat" class="fa fa-snapchat-ghost fa-2x"></i>
 		</a>
-		<a class="hvr-pop" href="{{ baseurl }}/elsewhere/">
+		<a class="hvr-pop" href="{{ site.baseurl }}/elsewhere/">
 			<i title="Elsewhere on the Web" class="fa fa-ellipsis-h fa-2x"></i>
 		</a>
 	</div>
