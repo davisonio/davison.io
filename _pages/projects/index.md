@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-What I've worked on or am working on at the moment.
-
 - [davison.io DevOps](/davison.io-devops/) - Ansible-powered DevOps and deployment for davison.io and related sites
 - [localhost DevOps](/localhost-devops/) - Ansible-powered DevOps and deployment for localhost
 - [Awesome IRC](/awesome-irc/) - A curated list of awesome IRC resources

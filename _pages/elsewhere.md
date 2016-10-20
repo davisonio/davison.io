@@ -4,8 +4,6 @@ title: Elsewhere on the Web
 permalink: /elsewhere/
 ---
 
-Here's where you can find me elsewhere on the Web.
-
 - [Amazon](https://www.amazon.co.uk/gp/profile/AQ1PI9JYK1YBD) - reviews of products
 - [Atom](https://atom.io/users/davisonio) - my packages and themes for my editor of choice
 - [BetaList](https://betalist.com/@davisonio) - joining new startups
