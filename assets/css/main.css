@@ -95,3 +95,28 @@ a#my-description, a#my-description:hover {
 .fa-ellipsis-h:hover {
   color: #268bd2;
 }
+
+/*               */
+/* Page: Contact */
+/*               */
+
+#contact-form {
+	margin-top: 20px;
+    font-size: 12px;
+}
+
+#contact-form input, #contact-form textarea {
+	padding: 5px;
+	width: 471px;
+	font-size: 1.4em;
+	margin: 0px 0px 10px 0px;
+	border: 2px solid #ccc;
+}
+
+#contact-form textarea {
+	height: 90px;
+}
+
+#contact-form textarea:focus, #contact-form input:focus {
+	border: 2px solid #268bd2;
+}
