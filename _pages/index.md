@@ -10,12 +10,6 @@ permalink: /
 
 	<a id="my-description" href="{{ baseurl }}/now/"><p id="my-description">{{ site.description }}</p></a>
 	<div class="social-heaven">
-		<a class="hvr-pop" href="tel:+447403010400">
-			<i title="Phone" class="fa fa-phone fa-2x"></i>
-		</a>
-		<a class="hvr-pop" href="mailto:craig@davison.io">
-			<i title="Email" class="fa fa-envelope fa-2x"></i>
-		</a>
 		<a class="hvr-pop" href="https://medium.com/@davisonio">
 			<i title="Medium" class="fa fa-medium fa-2x"></i>
 		</a>

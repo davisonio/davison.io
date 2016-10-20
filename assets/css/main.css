@@ -65,13 +65,6 @@ a#my-description, a#my-description:hover {
 }
 
 /* Colours are from the main colour of the site's logo */
-.fa-phone:hover {
-  color: #00FF6D;
-}
-
-.fa-envelope:hover {
-  color: #2C81E8;
-}
 
 .fa-medium:hover {
   color: #0BE370;
