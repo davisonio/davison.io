@@ -28,7 +28,6 @@ permalink: /elsewhere/
 - [LinkedIn](http://uk.linkedin.com/in/davisonio) - (semi-private) sharing professional stuff
 - [Makerbase](https://makerbase.co/m/x75bg4) - managing the things I've made
 - [Medium](https://medium.com/@davisonio) - recommending articles & writing posts for my blog
-- [Meerkat](https://meerkatapp.co/davisonio) - watching live streams
 - [Mixcloud](https://www.mixcloud.com/davisonio/) - listening to music playlists
 - [Nomad Trips](https://nomadtrips.co/davisonio) - managing my travel locations
 - [Peach](http://peach.cool/add/davisonio) - sharing gifs & thoughts
