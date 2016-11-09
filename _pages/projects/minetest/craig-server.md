@@ -16,8 +16,8 @@ Well-built, reliable and popular world for new or experienced builders.
 ## Stats
 
 - Established: on **6 October 2013**
-- Players who have joined: over **75,200+**
-- Map size: **11.3GB** and growing fast
+- Players who have joined: over **79,000+**
+- Map size: **12.2GB** and growing fast
 
 ## Team
 
