@@ -3,6 +3,7 @@ layout: page
 title: Cranleys · Projects
 permalink: /cranleys/
 title_alt: Cranleys
+description: The website of Cranleys Chartered Accountants - Create Value, Achieve Success.
 ---
 
 ![Cranleys Index](/assets/img/cranleys-index.png)

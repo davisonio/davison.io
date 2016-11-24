@@ -2,6 +2,7 @@
 layout: page
 title: Minetest · Projects
 permalink: /minetest/
+description: Minetest-related things I'm working on.
 ---
 
 - [Darkage](/minetest/darkage/) - Darkage mod for Minetest

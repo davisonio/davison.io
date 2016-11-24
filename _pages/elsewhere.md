@@ -2,6 +2,7 @@
 layout: page
 title: Elsewhere on the Web
 permalink: /elsewhere/
+description: Where you can find me elsewhere on the internet.
 ---
 
 - [Amazon](https://www.amazon.co.uk/gp/profile/AQ1PI9JYK1YBD) - reviews of products

@@ -2,6 +2,7 @@
 layout: page
 title: What I'm Doing Now
 permalink: /now/
+description: A more consise about page of this moment.
 ---
 
 - Studying Business, Maths and Computing at [Farnborough Sixth Form College](http://www.farnborough.ac.uk)

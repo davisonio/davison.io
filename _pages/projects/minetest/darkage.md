@@ -3,6 +3,7 @@ layout: page
 title: Darkage · Minetest · Projects
 permalink: /minetest/darkage/
 title_alt: Darkage
+description: Darkage mod for Minetest.
 ---
 
 ![Darkage Screenshot](/assets/img/minetest-darkage-screenshot.png)

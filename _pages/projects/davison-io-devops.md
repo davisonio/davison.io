@@ -3,6 +3,7 @@ layout: page
 title: davison.io DevOps · Projects
 permalink: /davison.io-devops/index.html
 title_alt: davison.io DevOps
+description: Ansible-powered DevOps and deployment for davison.io and related sites.
 ---
 
 ![davison.io DevOps Logo](/assets/img/davison-io-devops-logo.png)

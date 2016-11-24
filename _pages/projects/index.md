@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
+description: Things I'm working on.
 ---
 
 - [davison.io DevOps](/davison.io-devops/) - Ansible-powered DevOps and deployment for davison.io and related sites

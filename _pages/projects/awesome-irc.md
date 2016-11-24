@@ -3,6 +3,7 @@ layout: page
 title: Awesome IRC · Projects
 permalink: /awesome-irc/
 title_alt: Awesome IRC
+description: A curated list of awesome IRC resources.
 ---
 
 ![Awesome IRC Logo](/assets/img/awesome-irc-logo.png)

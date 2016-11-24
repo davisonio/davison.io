@@ -3,6 +3,7 @@ layout: page
 title: Smoothie Stacks · Projects
 permalink: /smoothiestacks/
 title_alt: Smoothie Stacks
+description: Showcasing the best colourful smoothie stacks & layered smoothies.
 ---
 
 ![Smoothie Stacks Screenshot](/assets/img/smoothiestacks-screenshot.png)

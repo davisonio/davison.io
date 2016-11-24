@@ -3,6 +3,7 @@ layout: page
 title: Craig's Server Game · Minetest · Projects
 permalink: /minetest/craig-server_game/
 title_alt: Craig's Server Game
+description: Game used by Craig's Minetest Server.
 ---
 
 ![Craig's Server Game Screenshot](/assets/img/minetest-craig-server_game-screenshot.jpg)

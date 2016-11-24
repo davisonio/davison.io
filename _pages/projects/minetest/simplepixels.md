@@ -3,6 +3,7 @@ layout: page
 title: SimplePixels · Minetest · Projects
 permalink: /minetest/simplepixels/
 title_alt: SimplePixels
+description: SimplePixels texture pack for Minetest.
 ---
 
 ![SimplePixels Screenshot](/assets/img/minetest-simplepixels-screenshot1.png)

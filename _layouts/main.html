@@ -12,7 +12,7 @@
           {{ page.title }} · {{ site.title }}
         {% endif %}
       </title>
-      <meta name="description" content="{{ site.description }}">
+      <meta name="description" content="{% if page.description %}{{ page.description }} - {% endif %}{{ site.description }}">
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
       <link rel="stylesheet" href="https://cdn.rawgit.com/FortAwesome/Font-Awesome/v4.6.3/css/font-awesome.min.css">
       <link rel="stylesheet" href="https://cdn.rawgit.com/IanLunn/Hover/2.0.2/css/hover-min.css">

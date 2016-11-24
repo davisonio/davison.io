@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
+description: A little bit about me.
 ---
 
 ![My Header Picture]({{ site.baseurl }}/assets/img/my-header-picture.jpg)

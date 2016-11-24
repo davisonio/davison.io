@@ -3,6 +3,7 @@ layout: page
 title: Craig's Server · Minetest · Projects
 permalink: /minetest/craig-server/
 title_alt: Craig's Server
+description: Well-built, reliable and popular world for new or experienced builders.
 ---
 
 ![Craig's Server Screenshot 1](/assets/img/minetest-craig-server-screenshot1.jpg)

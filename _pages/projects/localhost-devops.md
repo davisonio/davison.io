@@ -3,6 +3,7 @@ layout: page
 title: localhost DevOps · Projects
 permalink: /localhost-devops/
 title_alt: localhost DevOps
+description: Ansible-powered DevOps and deployment for localhost
 ---
 
 ![localhost DevOps Logo](/assets/img/localhost-devops-logo.png)

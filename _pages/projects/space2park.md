@@ -3,6 +3,7 @@ layout: page
 title: Space2park · Projects
 permalink: /space2park/
 title_alt: Space2park
+description: The website of Space2park - Providing both on and off peak parking solutions to both residents and businesses.
 ---
 
 ![Space2park Index](/assets/img/space2park-index.png)

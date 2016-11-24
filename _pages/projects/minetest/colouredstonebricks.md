@@ -3,6 +3,7 @@ layout: page
 title: Coloured stone bricks · Minetest · Projects
 permalink: /minetest/colouredstonebricks/
 title_alt: Coloured stone bricks
+description: Coloured stone bricks mod for Minetest.
 ---
 
 ![Coloured stone bricks Screenshot](/assets/img/minetest-colouredstonebricks-screenshot.png)

@@ -2,6 +2,7 @@
 layout: page
 title: Contact Me
 permalink: /contact/
+description: How you can say hi.
 ---
 
 Say hello [on Twitter](https://twitter.com/davisonio) or [on Snapchat](https://www.snapchat.com/add/davisonio).
