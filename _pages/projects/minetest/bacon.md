@@ -3,7 +3,7 @@ layout: page
 title: Bacon · Minetest · Projects
 permalink: /minetest/bacon/
 title_alt: Bacon
-description: Everyone's favourite food is now here in Minetest!
+description: Bacon mod for Minetest.
 ---
 
 ![Bacon Screenshot](/assets/img/minetest-bacon-screenshot.png)
