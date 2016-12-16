@@ -6,7 +6,6 @@ description: Things I'm working on.
 ---
 
 - [davison.io DevOps](/davison.io-devops/) - Ansible-powered DevOps and deployment for davison.io and related sites
-- [localhost DevOps](/localhost-devops/) - Ansible-powered DevOps and deployment for localhost
 - [Awesome IRC](/awesome-irc/) - A curated list of awesome IRC resources
 - [davison.io](/davison.io/) - Craig Davison's website @ davison.io
 - [Minetest](/minetest/)
