@@ -8,7 +8,7 @@ permalink: /
 	<span id="my-profile-picture"></span>
 	<h1 id="my-name">{{ site.title }}</h1>
 
-	<a id="my-description" href="{{ baseurl }}/now/"><p id="my-description">{{ site.description }}</p></a>
+	<a class="my-description" href="{{ baseurl }}/now/"><p class="my-description">{{ site.description }}</p></a>
 	<div class="social-heaven">
 		<a class="hvr-pop" href="https://medium.com/@davisonio">
 			<i title="Medium" class="fa fa-medium fa-2x"></i>

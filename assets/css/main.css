@@ -50,13 +50,13 @@ a#my-name {
   color: #313131;
 }
 
-p#my-description {
+p.my-description {
   padding-bottom: 1.5rem;
   padding-top: 1.5rem;
 }
 
 /* Make description link look normal */
-a#my-description, a#my-description:hover {
+a.my-description, a.my-description:hover {
   color: #515151;
   text-decoration: none;
 }
