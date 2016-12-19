@@ -12,4 +12,6 @@ The website of AccountantsTeam - Complete Accounting & Bookkeeping Solutions at 
 
 [![Website Badge](https://img.shields.io/badge/Visit-accountantsteam.co.uk-lightgrey.svg)](https://accountantsteam.co.uk)
 
+{% include badge/facebook.html username="accountantsteam" %}
+
 [![Email Badge](https://img.shields.io/badge/Email-info@accountantsteam.co.uk-lightgrey.svg)](mailto:info@accountantsteam.co.uk)
