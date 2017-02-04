@@ -22,3 +22,4 @@ description: Things I'm working on.
 - [Ride Around Hook](/ridearoundhook/) - The website of Ride Around Hook - a brand new charity cycling event
 - [Winton House](/basingstokeoffice/) - The website of Winton House - Serviced Office Solutions in Basingstoke
 - [Snapbot Sightings](/snapbotsightings/) - Sharing the latest places where you can find a Snapbot to buy Spectacles by Snap Inc
+- [Awesome GIF](/awesome-gif/) - A curated list of awesome GIF resources
