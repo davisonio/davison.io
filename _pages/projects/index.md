@@ -21,3 +21,4 @@ description: Things I'm working on.
 - [AccountantsTeam](/accountantsteam/) - The website of AccountantsTeam - Complete Accounting & Bookkeeping Solutions at low monthly costs
 - [Ride Around Hook](/ridearoundhook/) - The website of Ride Around Hook - a brand new charity cycling event
 - [Winton House](/basingstokeoffice/) - The website of Winton House - Serviced Office Solutions in Basingstoke
+- [Snapbot Sightings](/snapbotsightings/) - Sharing the latest places where you can find a Snapbot to buy Spectacles by Snap Inc
