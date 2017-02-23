@@ -5,6 +5,21 @@ permalink: /elsewhere/
 description: Where you can find me elsewhere on the internet.
 ---
 
+- [Medium](https://medium.com/@davisonio) - Blog posts and recommended reading.
+- [GitHub](https://github.com/davisonio) - Open source code.
+- [Ello](https://ello.co/davisonio) - Photography and art.
+- [Twitter](https://twitter.com/davisonio) - Updates and thoughts.
+- [Snapchat](https://www.snapchat.com/add/davisonio) - Snaps and daily stories.
+- [Instagram](https://www.instagram.com/craigdavisonio/) - Featured photos and daily stories.
+- [Facebook](https://www.facebook.com/craigdavisonio) - News, community groups and events.
+
+## Business
+
+- [LinkedIn](http://uk.linkedin.com/in/davisonio) - Professional updates and my CV.
+- [AngelList](https://angel.co/davisonio) - Startup connections.
+
+## Other
+
 - [Amazon](https://www.amazon.co.uk/gp/profile/AQ1PI9JYK1YBD) - reviews of products
 - [Atom](https://atom.io/users/davisonio) - my packages and themes for my editor of choice
 - [BetaList](https://betalist.com/@davisonio) - joining new startups
@@ -15,20 +30,14 @@ description: Where you can find me elsewhere on the internet.
 - [Creative Market](https://creativemarket.com/davisonio) - buying themes, graphics & fonts
 - [Disqus](https://disqus.com/by/davisonio/) - my comments
 - [Duolingo](https://www.duolingo.com/davisonio) - learning new languages
-- [Ello](https://ello.co/davisonio) - sharing amateur photography
-- [Facebook](https://www.facebook.com/craigdavisonio) - (semi-private) sharing with friends
 - [Flippa](https://flippa.com/users/926571) - buying website & domains
-- [GitHub](https://github.com/davisonio) - sharing my code
 - [Goodreads](https://www.goodreads.com/davisonio) - my book tracking system
 - [Hacker News](https://news.ycombinator.com/user?id=davisonio) - browsing the news that matters
 - [IFTTT](https://ifttt.com/p/davisonio) - workflows
 - [iFunny](http://ifunny.co/davisonio) - funny pictures and memes
 - [Imgur](https://imgur.com/user/davisonio) - browsing pictures with a story
-- [Instagram](https://www.instagram.com/craigdavisonio/) - (semi-private) sharing photos with friends
 - [Kickstarter](https://www.kickstarter.com/profile/davisonio) - buying new & future products
-- [LinkedIn](http://uk.linkedin.com/in/davisonio) - (semi-private) sharing professional stuff
 - [Makerbase](https://makerbase.co/m/x75bg4) - managing the things I've made
-- [Medium](https://medium.com/@davisonio) - recommending articles & writing posts for my blog
 - [Mixcloud](https://www.mixcloud.com/davisonio/) - listening to music playlists
 - [Nomad Trips](https://nomadtrips.co/davisonio) - managing my travel locations
 - [Peach](http://peach.cool/add/davisonio) - sharing gifs & thoughts
@@ -36,11 +45,9 @@ description: Where you can find me elsewhere on the internet.
 - [Product Hunt](https://www.producthunt.com/@davisonio) - browsing the best new products
 - [Quora](https://www.quora.com/profile/Craig-Davison-3) - browsing great answers to great questions
 - [Reddit](https://www.reddit.com/user/davisonio/) - browsing the front page of the internet
-- [Snapchat](https://www.snapchat.com/add/davisonio) - sharing my day
 - [SoundCloud](https://soundcloud.com/davisonio) - listening to music
 - [Stack Exchange](https://stackexchange.com/users/6582211/craig-davison) - browsing solutions to problems
 - [Trello](https://trello.com/davisonio) - organising projects
-- [Twitter](https://twitter.com/davisonio) - sharing with everyone
 - [Udemy](https://www.udemy.com/user/craig-davison/) - learning by using courses
 - [Unsplash](https://unsplash.com/@davisonio) - sharing my photography for free
 - [Vimeo](https://vimeo.com/davisonio) - watching videos
