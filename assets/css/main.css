@@ -92,6 +92,14 @@ a.my-description, a.my-description:hover {
   color: #fffc00;
 }
 
+.fa-instagram:hover {
+  color: #EF0069;
+}
+
+.fa-facebook:hover {
+    color: #3C539A;
+}
+
 .fa-ellipsis-h:hover {
   color: #268bd2;
 }
