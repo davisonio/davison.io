@@ -5,6 +5,8 @@ permalink: /elsewhere/
 description: Where you can find me elsewhere on the internet.
 ---
 
+<!-- ## Main Platforms-- >
+
 - [Medium](https://medium.com/@davisonio) - Blog posts and recommended reading.
 - [GitHub](https://github.com/davisonio) - Open source code.
 - [Ello](https://ello.co/davisonio) - Photography and art.

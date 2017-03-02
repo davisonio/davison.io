@@ -3,12 +3,12 @@ layout: page
 title: Snapbot Sightings · Projects
 permalink: /snapbotsightings/
 title_alt: Snapbot Sightings
-description: Sharing the latest places where you can find a Snapbot to buy Spectacles by Snap Inc.
+description: Get the latest news and updates on Spectacles by Snap. Always on the lookout for Snapbots.
 ---
 
 ![Snapbot Sightings Screenshot](/assets/img/snapbotsightings-screenshot.png)
 
-Sharing the latest places where you can find a Snapbot to buy Spectacles by Snap Inc.
+Get the latest news and updates on Spectacles by Snap. Always on the lookout for Snapbots.
 
 {% include badge/instagram.html username="snapbotsightings" %}
 
