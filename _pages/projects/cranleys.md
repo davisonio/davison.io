@@ -1,10 +1,18 @@
 ---
 layout: page
-title: Cranleys · Projects
+title: Cranleys
 permalink: /cranleys/
-title_alt: Cranleys
 description: The website of Cranleys Chartered Accountants - Create Value, Achieve Success.
 ---
+
+<style>
+.content header {
+    background-image: url({{ site.baseurl }}/assets/img/drone-by-clem-onojeghuo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+}
+</style>
 
 ![Cranleys Index](/assets/img/cranleys-index.png)
 

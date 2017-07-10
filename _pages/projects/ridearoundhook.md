@@ -1,10 +1,18 @@
 ---
 layout: page
-title: Ride Around Hook · Projects
+title: Ride Around Hook
 permalink: /ridearoundhook/
-title_alt: Ride Around Hook
 description: The website of Ride Around Hook - a brand new charity cycling event.
 ---
+
+<style>
+.content header {
+    background-image: url({{ site.baseurl }}/assets/img/drone-by-clem-onojeghuo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+}
+</style>
 
 ![Ride Around Hook Index](/assets/img/ridearoundhook-index.png)
 

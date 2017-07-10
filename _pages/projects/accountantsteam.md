@@ -1,10 +1,18 @@
 ---
 layout: page
-title: AccountantsTeam · Projects
+title: AccountantsTeam
 permalink: /accountantsteam/
-title_alt: AccountantsTeam
 description: The website of AccountantsTeam - Complete Accounting & Bookkeeping Solutions at low monthly costs
 ---
+
+<style>
+.content header {
+    background-image: url({{ site.baseurl }}/assets/img/drone-by-clem-onojeghuo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+}
+</style>
 
 ![AccountantsTeam Index](/assets/img/accountantsteam-index.png)
 

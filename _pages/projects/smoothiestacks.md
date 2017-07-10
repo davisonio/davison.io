@@ -1,10 +1,18 @@
 ---
 layout: page
-title: Smoothie Stacks · Projects
+title: Smoothie Stacks
 permalink: /smoothiestacks/
-title_alt: Smoothie Stacks
 description: Showcasing the best colourful smoothie stacks & layered smoothies.
 ---
+
+<style>
+.content header {
+    background-image: url({{ site.baseurl }}/assets/img/drone-by-clem-onojeghuo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+}
+</style>
 
 ![Smoothie Stacks Screenshot](/assets/img/smoothiestacks-screenshot.png)
 

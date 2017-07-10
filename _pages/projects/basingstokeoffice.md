@@ -1,10 +1,18 @@
 ---
 layout: page
-title: Winton House · Projects
+title: Winton House
 permalink: /basingstokeoffice/
-title_alt: Winton House
 description: The website of Winton House - Serviced Office Solutions in Basingstoke
 ---
+
+<style>
+.content header {
+    background-image: url({{ site.baseurl }}/assets/img/drone-by-clem-onojeghuo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+}
+</style>
 
 ![Winton House Index](/assets/img/basingstokeoffice-index.png)
 

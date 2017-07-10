@@ -1,10 +1,18 @@
 ---
 layout: page
-title: Craig's Server · Minetest · Projects
+title: Craig's Server
 permalink: /minetest/craig-server/
-title_alt: Craig's Server
 description: Well-built, reliable and popular world for new or experienced builders.
 ---
+
+<style>
+.content header {
+    background-image: url({{ site.baseurl }}/assets/img/drone-by-clem-onojeghuo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+}
+</style>
 
 ![Craig's Server Screenshot 1](/assets/img/minetest-craig-server-screenshot1.jpg)
 
@@ -22,28 +30,21 @@ Well-built, reliable and popular world for new or experienced builders.
 
 ## Team
 
-##### Owners
-
-- **CraigyDavi/davisonio**
-
-##### Admins
-
-- **Gabo**
-- **fishyWET**
-- **foot_on_teh_hill**
-- **lisacvuk**
-- **the_raven_262**
-- **RHR**
-- **Amaz**
+- **CraigyDavi/davisonio** - Owner
+- **Gabo** - Admin
+- **fishyWET** - Admin
+- **foot_on_teh_hill** - Admin
+- **lisacvuk** - Admin
+- **the_raven_262** - Admin
+- **RHR** - Admin
+- **Amaz** - Admin
 
 <!--
-### Previous Members
-
-- **Rhys**
-- **WhoCares**
-- **FMK**
-- **Potato**
-- **Esteban**
+- **Rhys** - Previous Member
+- **WhoCares** - Previous Member
+- **FMK** - Previous Member
+- **Potato** - Previous Member
+- **Esteban** - Previous Member
 -->
 
 ## Screenshots

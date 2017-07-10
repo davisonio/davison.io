@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Coloured stone bricks · Minetest · Projects
+title: Coloured Stone Bricks
 permalink: /minetest/colouredstonebricks/
-title_alt: Coloured stone bricks
-description: Coloured stone bricks mod for Minetest.
+description: Coloured Stone Bricks mod for Minetest.
 ---
 
-![Coloured stone bricks Screenshot](/assets/img/minetest-colouredstonebricks-screenshot.png)
+<style>
+.content header {
+    background-image: url({{ site.baseurl }}/assets/img/drone-by-clem-onojeghuo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+}
+</style>
 
-Coloured stone bricks is available for contributing [on GitHub](https://github.com/davisonio/colouredstonebricks).
+![Coloured Stone Bricks Screenshot](/assets/img/minetest-colouredstonebricks-screenshot.png)
 
-<iframe src="https://ghbtns.com/github-btn.html?user=davisonio&repo=colouredstonebricks&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="130" height="30"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=davisonio&repo=colouredstonebricks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="120" height="30"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=davisonio&repo=colouredstonebricks&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="120" height="30"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=davisonio&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="180" height="30"></iframe>
+Coloured Stone Bricks is available for contributing [on GitHub](https://github.com/davisonio/colouredstonebricks).
+
+<iframe class='iframe-badge' src="https://ghbtns.com/github-btn.html?user=davisonio&repo=colouredstonebricks&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="130" height="30"></iframe><iframe class='iframe-badge' src="https://ghbtns.com/github-btn.html?user=davisonio&repo=colouredstonebricks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="120" height="30"></iframe><iframe class='iframe-badge' src="https://ghbtns.com/github-btn.html?user=davisonio&repo=colouredstonebricks&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="120" height="30"></iframe><iframe class='iframe-badge' src="https://ghbtns.com/github-btn.html?user=davisonio&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="180" height="30"></iframe>
