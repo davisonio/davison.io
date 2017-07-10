@@ -55,6 +55,12 @@
   z-index: 400;
 }
 
+div.b-nav {
+
+    top: 100px;
+  left: 30px;
+
+}
 .b-nav, body:after {
   position: fixed;
 }
