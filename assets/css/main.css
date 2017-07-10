@@ -1,77 +1,105 @@
-/*      */
-/* Main */
-/*      */
+/*        */
+/* Global */
+/*        */
 
-html {
-  font-family: "Montserrat", sans-serif;
+/* Override font to use Bootstrap defaults */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/* Body text */
+/* Make iframes and badges the right size */
+.content iframe .iframe-badge {
+    display: inline-block;
+    margin: initial;
+}
+.content img[src^="https://img.shields.io/badge/"] {
+    display: block;
+    margin: initial;
+    width: inherit;
+}
+
+/* Not too much spacing */
 p {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
 
+/* Helper */
 .center {
   text-align: center;
 }
 
+/* Mobile device changes */
 .page-title {
   margin-top: 4rem;
 }
 
-ul, ol, dl {
-  margin-top: 0;
-  margin-bottom: 0;
+/* Footer */
+.footer {
+    /* Remove edgy lowercasing */
+    text-transform: none;
+    padding-bottom: 5vmin;
+}
+.footer ul {
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.text-footer {
+    margin-top: 1rem;
+    margin-bottom: 0.7rem;
+}
+.footer .social-heaven {
+    margin-top: 0;
+}
+
+/* Main Content Block */
+.content {
+    margin-bottom: 4vw;
+}
+
+.page-content {
+    margin-top: 4vw;
+}
+
+.content header {
+    margin-bottom: 0;
+    padding-bottom: 10vw;
+}
+
+.content h1 {
+    margin-top: 4vmin;
+}
+
+.content .sub-title {
+    margin-top: 2vmin;
 }
 
 /*            */
 /* Page: Home */
 /*            */
 
-span#my-profile-picture {
-  width: 10rem;
-  height: 10rem;
-  display: block;
-  margin: auto;
-  margin-top: 105px;
-  background: url("/assets/img/my-profile-picture.png") no-repeat;
-  background-size: 10rem 10rem;
-  /* For a round profile picture: */
-  /* border-radius: 100px; */
+/* Social Heaven */
+.social-heaven {
+      margin-top: 8vmin;
+      margin-left: -0.5rem;
 }
 
-h1#my-name {
-  margin-top: 2rem;
-  font-size: 3rem;
+.social-heaven .fa-end {
+    margin-left: 0;
+    margin-right: 0;
 }
-
-a#my-name {
-  color: #313131;
-}
-
-p.my-description {
-  padding-bottom: 1.5rem;
-  padding-top: 1.5rem;
-}
-
-/* Make description link look normal */
-a.my-description, a.my-description:hover {
-  color: #515151;
-  text-decoration: none;
-}
-
 
 .social-heaven .fa {
   /* Just the right amount of spacing for multiple icons! */
   margin-left: 0.7rem;
   margin-right: 0.7rem;
+  margin-top: 0.35rem;
+  margin-bottom: 0.35rem;
 
   color: #555;
 }
 
 /* Colours are from the main colour of the site's logo */
-
 .fa-medium:hover {
   color: #0BE370;
 }
@@ -104,6 +132,20 @@ a.my-description, a.my-description:hover {
   color: #268bd2;
 }
 
+/*             */
+/* Page: About */
+/*             */
+
+img#my-profile-picture {
+    width: 300px;
+    height: auto;
+}
+
+img#awesome-logo {
+    width: 400px;
+    height: auto;
+}
+
 /*               */
 /* Page: Contact */
 /*               */
@@ -115,7 +157,7 @@ a.my-description, a.my-description:hover {
 
 #contact-form input, #contact-form textarea {
 	padding: 5px;
-	width: 471px;
+	width: 100%;
 	font-size: 1.4em;
 	margin: 0px 0px 10px 0px;
 	border: 2px solid #ccc;
