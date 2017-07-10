@@ -10,7 +10,7 @@
 
 Here's the source code of my website which you can find on the interwebs over at [davison.io](https://davison.io).
 
-Using [Jekyll](https://jekyllrb.com) and [Poole](http://getpoole.com)!
+Using [Jekyll](https://jekyllrb.com) and [Almace Scaffolding](https://sparanoid.com/lab/amsf/)!
 
 ![](https://davison.io/assets/img/davison-io-index.png)
 
@@ -30,9 +30,9 @@ Unless otherwise stated:
 
 - Copyright © 2015+ [Craig Davison](https://davison.io). Released under the [MIT License](http://davisonio.mit-license.org/2015).
 
-[`assets/css/poole.css`](https://github.com/davisonio/davison.io/blob/master/assets/css/poole.css) and [`assets/css/syntax.css`](https://github.com/davisonio/davison.io/blob/master/assets/css/syntax.css):
+[`assets/css/amsf.css`](https://github.com/davisonio/davison.io/blob/master/assets/css/amsf.css)
 
-- Copyright © 2014 [Mark Otto](http://markdotto.com). Released under the [MIT License](https://github.com/poole/poole/blob/master/LICENSE.md).
+- Copyright © 2017 [Sparanoid, Inc](https://sparanoid.com). Released under the [MIT License](https://github.com/sparanoid/almace-scaffolding/blob/master/LICENSE).
 
 [`assets/css/github-markdown.css`](https://github.com/davisonio/davison.io/blob/master/assets/css/github-markdown.css)
 
