@@ -14,7 +14,6 @@
   background: #29292a;
   transition: background 0.75s ease-out;
 
-  font-family: "Montserrat", sans-serif;
   color: #fff;
   text-decoration: none;
   font-size: 20px;
@@ -23,7 +22,6 @@
 
 .top-title-button a:hover {
   background: #225d85;
-  font-family: "Montserrat", sans-serif;
   color: #fff;
   text-decoration: none;
   font-size: 20px;
@@ -74,8 +72,9 @@ body:after {
 }
 
 .b-link {
-  font-family: "Montserrat", sans-serif;
   color: #515151;
+    font-weight: bold;
+    font-size: 50px;
 }
 
 .b-link--active,
