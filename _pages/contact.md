@@ -5,7 +5,16 @@ permalink: /contact/
 description: How you can say hi.
 ---
 
-Say hello [on Twitter](https://twitter.com/davisonio) or [on Snapchat](https://www.snapchat.com/add/davisonio).
+<style>
+.content header {
+    background-image: url({{ site.baseurl }}/assets/img/drone-by-clem-onojeghuo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+}
+</style>
+
+Say hello on [Twitter](https://twitter.com/davisonio) or [Snapchat](https://www.snapchat.com/add/davisonio).
 
 My email is [craig@davison.io](mailto:craig@davison.io), feel free to use the form below and I'll reply ASAP.
 
