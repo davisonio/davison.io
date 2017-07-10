@@ -2,7 +2,15 @@
 layout: main
 ---
 
-<article class="page">
-  <h1 class="page-title">{% if page.title_alt %}{{ page.title_alt }}{% elsif page.title %}{{ page.title }}{% endif %}</h1>
-  {{ content }}
+<article>
+    <header>
+  		<h1>{{ page.title }}</h1>
+        {% if page.subtitle %}
+  		<h2 class="sub-title">{{ page.subtitle }}</h2>
+        {% endif %}
+  		<small>{{ page.description }}</small>
+  	</header>
+    <div class="page-content">
+      {{ content }}
+  </div>
 </article>
