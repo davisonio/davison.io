@@ -5,12 +5,9 @@ rvm:
 
 install:
   - gem install jekyll
-  - npm install surge
 
 script:
   - jekyll build
-  - "printf '%s\n' 'User-agent: *' 'Disallow: /' > _site/robots.txt"
-  - surge --project _site --domain http://staging.davison.io
 
 notifications:
   email: false
