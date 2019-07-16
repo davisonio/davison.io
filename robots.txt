@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: /contact/done/
+Disallow:
 Sitemap: https://davison.io/sitemap.xml
+Sitemap: https://davison.io/blog/sitemap.xml
