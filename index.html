@@ -1,8 +1,8 @@
 ---
 layout: default
 current: home
+title: Home
 class: 'home-template'
-navigation: True
 ---
 
 <!-- < default -->
@@ -10,12 +10,12 @@ navigation: True
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}">
+<header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}/{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}">
     <div class="inner">
         <div class="site-header-content">
             <h1 class="site-title">
                 {% if site.logo %}
-                    <img class="site-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}"/>
+                    <img class="site-logo" src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.title }}"/>
                 {% else %}
                     {{ site.title }}
                 {% endif %}
@@ -29,5 +29,6 @@ into the {body} of the default.hbs template -->
 <!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
+        <p>Hello world!</p>
     </div>
 </main>
