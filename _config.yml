@@ -9,6 +9,7 @@ baseurl: "/"
 exclude:
   - readme.md
   - contributing.md
+  - blog
 
 #include:
 #  - _pages
