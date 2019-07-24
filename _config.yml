@@ -2,7 +2,7 @@
 url: https://davison.io
 
 # This is only needed if you are serving this site in a subdirectory.
-baseurl: "/"
+baseurl: ""
 
 # These files will be excluded from the generated site.
 # Files or directories starting with a _ or . are automatically excluded.
@@ -11,44 +11,22 @@ exclude:
   - contributing.md
   - blog
 
-#include:
-#  - _pages
-#  - .well-known
+include:
+  - _pages
+  - .well-known
 
 # It's good practice to set a permalink manually for each post but if not, here:
 permalink: /:title/
 
 timezone: Europe/London
 
-google_analytics: "UA-87918631-1"
-
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-# Paginate after x posts
-paginate: 100
-
-# Reading speed
-words_per_minute: 200
-
-# Website info
 title: Craig Davison
 description: Entrepreneur and Digital Strategist
 cover:
 logo:
 logo_dark:
-favicon: assets/images/favicon.png
-
-# Gems and other configs
-plugins_dir: [_plugins]
-
-# Authors and tags info in _data
-
-# Disqus
-disqus: False
-disqus_shortname:
-
-# Social info
-navigation: True
-subscribers: False
+favicon: assets/img/favicon.png
