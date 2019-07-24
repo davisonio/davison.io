@@ -12,10 +12,10 @@
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/css/screen.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/css/screen.edited.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/css/syntax.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/css/custom.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/screen.edited.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/syntax.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/custom.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" integrity="sha256-UzFD2WYH2U1dQpKDjjZK72VtPeWP50NoJjd26rnAdUI=" crossorigin="anonymous" />
     <!-- highlight.js -->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
@@ -36,26 +36,11 @@
     {% include head.html %}
 
 </head>
-<body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
+<body class="page-template">
 
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
         {{ content }}
-
-        <!-- Previous/next page links - displayed on every page -->
-        {% if paginator.total_posts > site.paginate %}
-            {% if page.class == 'home-template' %}
-                {% include post_pagination.html %}
-            {% elsif page.class == 'page-template' %}
-                {% include post_pagination.html %}
-            {% elsif page.class == 'author-template' %}
-                {% include author_pagination.html %}
-            {% elsif page.class == 'tag-template' %}
-                {% include tag_pagination.html %}
-            {% else %}
-                {% include post_pagination.html %}
-            {% endif %}
-        {% endif %}
 
         <!-- The footer at the very bottom of the screen -->
         <footer class="site-footer outer">
@@ -109,23 +94,11 @@
     <script src="{{ site.baseurl }}assets/js/infinitescroll.js"></script> -->
     <!-- /endif -->
 
-    {% if paginator.total_pages > site.paginate %}
-    <script>
-        var maxPages = parseInt('{{ paginator.total_pages }}');
-    </script>
-    <script src="{{ site.baseurl }}assets/js/infinitescroll.js"></script>
-    {% endif %}
-
-
     <!-- Add Google Analytics  -->
     {% include analytics.html %}
 
     <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
-    {% if page.class == "post-template" %}
-        {% include post-scripts.html %}
-    {% elsif page.class == "page-template" %}
-        {% include page-scripts.html %}
-    {% endif %}
+    {% include page-scripts.html %}
 
     <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
     <!-- ghost_foot -->
