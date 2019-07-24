@@ -15,3 +15,8 @@
         display: inherit;
     }
 }
+
+/* Fix super annoying 404 header unlickable bug */
+.site-header:after, .site-header:before {
+    content: unset;
+}
