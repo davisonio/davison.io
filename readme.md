@@ -21,7 +21,9 @@ Blog theme has a few changes from the default Casper theme, including:
 
 Make sure ruby is installed (ideally using rvm) and then install Jekyll.
 
-`gem install jekyll`
+```
+gem install jekyll
+```
 
 Install plugins:
 ```
