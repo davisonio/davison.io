@@ -22,7 +22,6 @@ timezone: Europe/London
 
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate
 
 title: Craig Davison
 description: Entrepreneur and Digital Strategist
