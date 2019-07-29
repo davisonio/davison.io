@@ -32,7 +32,9 @@ To use the blog theme, install in Ghost admin interface.
 
 ## Use
 
-`jekyll build`
+```
+jekyll build
+```
 
 Then configure nginx to point to the `_site` generated directory.
 
