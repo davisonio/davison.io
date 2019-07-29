@@ -20,3 +20,10 @@
 .site-header:after, .site-header:before {
     content: unset;
 }
+
+@media (min-width: 900px) {
+    .home-template .site-nav {
+        position: relative;
+        top: -70px;
+    }
+}

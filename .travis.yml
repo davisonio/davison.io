@@ -6,7 +6,6 @@ rvm:
 install:
   - gem install jekyll
   - gem install jekyll-sitemap
-  - gem install jekyll-paginate
 
 script:
   - jekyll build
