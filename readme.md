@@ -25,11 +25,6 @@ Make sure ruby is installed (ideally using rvm) and then install Jekyll.
 gem install jekyll
 ```
 
-Install plugins:
-```
-gem install jekyll-sitemap
-```
-
 To use the blog theme, install in Ghost admin interface.
 
 ## Use
