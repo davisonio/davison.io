@@ -1,8 +1,172 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>{{ page.title }}</title>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="https://davison.io/blog/assets/built/screen.css" />
+    <link rel="stylesheet" type="text/css" href="https://davison.io/blog/assets/css/custom.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" integrity="sha256-UzFD2WYH2U1dQpKDjjZK72VtPeWP50NoJjd26rnAdUI=" crossorigin="anonymous" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/themes/prism.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/themes/prism-okaidia.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/plugins/unescaped-markup/prism-unescaped-markup.css"/>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-87918631-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-87918631-1');
+    </script>
+    <link rel="shortcut icon" href="https://davison.io/blog/favicon.ico" type="image/x-icon" />
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    <meta property="og:site_name" content="Craig Davison" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:description" content="{{ page.description }}" />
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
+    <meta name="twitter:site" content="@davisonio" />
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Craig Davison",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://davison.io/blog/favicon.ico",
+            "width": 60,
+            "height": 60
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Craig Davison",
+        "image": {
+            "@type": "ImageObject",
+            "url": "{{ site.url }}/assets/img/craig-laptop.jpg",
+            "width": 400,
+            "height": 400
+        },
+        "sameAs": [
+            "{{ site.url }}"
+        ]
+    },
+    "headline": "{{ page.title }}",
+    "url": "{{ site.url }}{{ page.url }}",
+    "description": "{{ page.description }}",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ site.url }}{{ page.url }}"
+    }
+}
+    </script>
 </head>
-<body>
+<body class="page-template page-example">
+
+    <div class="site-wrapper">
+
+
+<header class="site-header outer">
+    <div class="inner">
+        <nav class="site-nav">
+    <div class="site-nav-left">
+                <a class="site-nav-logo" href="https://davison.io">Craig Davison</a>
+            <ul class="nav" role="menu">
+    <li class="nav-blog" role="menuitem"><a href="https://davison.io/blog/">Blog</a></li>
+    <li class="nav-about" role="menuitem"><a href="https://davison.io/about/">About</a></li>
+</ul>
+
+    </div>
+    <div class="site-nav-right">
+        <div class="social-links">
+                <a class="social-link social-link-tw" href="https://twitter.com/davisonio" title="Twitter" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
+                <a class="social-link" href="https://www.instagram.com/craigdavisonio/" title="Instagram" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a>
+                <!--<a class="social-link" href="https://davison.io/elsewhere/" title="Elsewhere" target="_blank" rel="noopener"><i class="fas fa-ellipsis-h"></i></a>-->
+        </div>
+    </div>
+</nav>
+    </div>
+</header>
+
+
+<main id="site-main" class="site-main outer">
+    <div class="inner">
+
+        <article class="post-full post page no-image">
+
+            <header class="post-full-header">
+                <h1 class="post-full-title">{{ page.title }}</h1>
+            </header>
+
+            <section class="post-full-content">
+                <div class="post-content">
+                    {{ content }}
+                </div>
+            </section>
+
+        </article>
+
+    </div>
+</main>
+
+
+
+
+        <footer class="site-footer outer">
+            <div class="site-footer-content inner">
+                <section class="copyright">&copy; 2019 Craig Davison</section>
+                <nav class="site-footer-nav">
+                    <a href="https://davison.io/contact/" title="Contact"">Contact</a>
+                </nav>
+            </div>
+        </footer>
+
+    </div>
+
+
+    <script>
+        var images = document.querySelectorAll('.kg-gallery-image img');
+        images.forEach(function (image) {
+            var container = image.closest('.kg-gallery-image');
+            var width = image.attributes.width.value;
+            var height = image.attributes.height.value;
+            var ratio = width / height;
+            container.style.flex = ratio + ' 1 0%';
+        })
+    </script>
+
+
+    <script
+        src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous">
+    </script>
+    <script type="text/javascript" src="https://davison.io/blog/assets/built/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/prism.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/components/prism-javascript.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/components/prism-css.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/components/prism-scss.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/components/prism-bash.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/components/prism-markup.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/plugins/unescaped-markup/prism-unescaped-markup.min.js"></script>
+
+    <script>
+	$(function() {
+    	var $postContent = $(".post-full-content");
+    	$postContent.fitVids();
+	});
+</script>
 </body>
 <!--
      Copyright © 2015+ Craig Davison
