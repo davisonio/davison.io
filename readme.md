@@ -56,4 +56,4 @@ Unless otherwise stated:
 - Copyright © 2015+ [Craig Davison](https://davison.io).
 
 Casper theme for Ghost and static page themes based on Casper:
-- Copyright © 2013-2019 [Ghost Foundation](https://ghost.org). Released under the MIT license.
+- Copyright © 2013-2019 [Ghost Foundation](https://ghost.org). Licensed under MIT.
