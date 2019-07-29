@@ -10,6 +10,7 @@ exclude:
   - readme.md
   - contributing.md
   - blog
+  - .old
 
 include:
   - _pages
