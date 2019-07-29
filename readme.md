@@ -15,7 +15,7 @@ Blog theme has a few changes from the default Casper theme, including:
 * Simplified author attribution
 * 280 character post card exerpt
 * No large post cards
-* No larger font on `p:first-child`.
+* No larger font on `p:first-child`
 
 ## Install
 
