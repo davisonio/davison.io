@@ -20,3 +20,11 @@
     font-size: inherit;
     line-height: inherit;
 }
+
+a.site-title {
+    color: #ffff;
+}
+
+a.site-title:hover {
+    text-decoration: none;
+}
