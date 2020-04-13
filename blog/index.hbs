@@ -5,13 +5,15 @@ into the {body} of the default.hbs template --}}
 {{> header background=@site.cover_image}} {{!--Special header.hbs partial to generate the <header> tag--}}
     <div class="inner">
         <div class="site-header-content">
-            <h1 class="site-title">
-                {{#if @site.logo}}
-                    <img class="site-logo" src="{{img_url @site.logo size="l"}}" alt="{{@site.title}}" />
-                {{else}}
-                    {{@site.title}}
-                {{/if}}
-            </h1>
+            <a class="site-title" href="https://davison.io">
+                <h1 class="site-title">
+                    {{#if @site.logo}}
+                        <img class="site-logo" src="{{img_url @site.logo size="l"}}" alt="{{@site.title}}" />
+                    {{else}}
+                        {{@site.title}}
+                    {{/if}}
+                </h1>
+            </a>
             <h2 class="site-description">{{@site.description}}</h2>
         </div>
         {{> "site-nav"}}
