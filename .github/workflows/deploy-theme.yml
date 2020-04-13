@@ -1,0 +1,23 @@
+name: Deploy Theme
+on:
+  push:
+    branches:
+      - master
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@master
+      - run: echo $GITHUB_WORKSPACE
+      - name: Dump GitHub context
+        env:
+          GITHUB_WORKSPACE: test1
+      - run: echo $GITHUB_WORKSPACE
+      - name: Deploy Ghost Theme
+        uses: TryGhost/action-deploy-theme@v1.2.1
+        with:
+          api-url: ${{ secrets.GHOST_ADMIN_API_URL }}
+          api-key: ${{ secrets.GHOST_ADMIN_API_KEY }}
+          theme-name: davisonio
+          GITHUB_WORKSPACE: test
+      - run: echo $GITHUB_WORKSPACE
