@@ -9,9 +9,6 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - run: echo $GITHUB_WORKSPACE
-      - name: Dump GitHub context
-        env:
-          GITHUB_WORKSPACE: test1
       - run: echo $GITHUB_WORKSPACE
       - name: Deploy Ghost Theme
         uses: TryGhost/action-deploy-theme@v1.2.1
