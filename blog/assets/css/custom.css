@@ -21,6 +21,10 @@
     line-height: inherit;
 }
 
+.social-links {
+    margin-top: 5px;
+}
+
 a.site-title {
     color: #ffff;
 }
